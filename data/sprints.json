@@ -1,0 +1,206 @@
+[
+ {
+  "id": "112",
+  "title": "The assistant answers from the collection",
+  "status": "In progress",
+  "date": "2026-09-21"
+ },
+ {
+  "id": "111",
+  "title": null,
+  "status": "In progress",
+  "date": "2026-09-21"
+ },
+ {
+  "id": "110",
+  "title": "Library reconcile",
+  "status": "In progress",
+  "date": "2026-09-21"
+ },
+ {
+  "id": "109",
+  "title": "Reconstructed Home collection history",
+  "status": "Shipped",
+  "date": "2026-09-19"
+ },
+ {
+  "id": "108",
+  "title": "Removal reflects ownership, history kept",
+  "status": "Passed the gate, not released",
+  "date": "2026-09-19"
+ },
+ {
+  "id": "107",
+  "title": "Coverage closure follow-ups",
+  "status": "Allocated",
+  "date": "2026-09-18"
+ },
+ {
+  "id": "106",
+  "title": "tvOS Phase 0",
+  "status": "Allocated",
+  "date": "2026-09-18"
+ },
+ {
+  "id": "105",
+  "title": "Automatic catalog growth",
+  "status": "Allocated",
+  "date": "2026-09-18"
+ },
+ {
+  "id": "104",
+  "title": null,
+  "status": "Allocated",
+  "date": "2026-09-18"
+ },
+ {
+  "id": "103",
+  "title": "Visual release fixes from the 102b review",
+  "status": "Shipped",
+  "date": "2026-09-18"
+ },
+ {
+  "id": "102b",
+  "title": null,
+  "status": "Complete, not released",
+  "date": "2026-09-18"
+ },
+ {
+  "id": "102",
+  "title": "Continuous agent ownership and project audit",
+  "status": "Complete, not released",
+  "date": "2026-09-17"
+ },
+ {
+  "id": "101",
+  "title": "Compact Home collection history",
+  "status": "Not recorded",
+  "date": null
+ },
+ {
+  "id": "100",
+  "title": "Project knowledge and agent continuity",
+  "status": "Complete, not released",
+  "date": "2026-09-16"
+ },
+ {
+  "id": "099e",
+  "title": "Remaining coverage closure",
+  "status": "In progress",
+  "date": "2026-09-06"
+ },
+ {
+  "id": "099d",
+  "title": "Personal-flow coverage",
+  "status": "Complete, not released",
+  "date": "2026-09-06"
+ },
+ {
+  "id": "099c",
+  "title": "Back-button and page title coverage",
+  "status": "Complete, not released",
+  "date": "2026-09-06"
+ },
+ {
+  "id": "099b",
+  "title": "Android and web regression fixes",
+  "status": "Complete, not released",
+  "date": "2026-09-06"
+ },
+ {
+  "id": "099",
+  "title": "Native mobile automation and signup repair",
+  "status": "Complete, not released",
+  "date": "2026-09-05"
+ },
+ {
+  "id": "098",
+  "title": "Mobile fast path + progressive Home rendering",
+  "status": "Planned",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "097",
+  "title": "Collapse the Home backend critical path",
+  "status": "Planned",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "096",
+  "title": "Mobile home performance baseline + request hygiene",
+  "status": "Planned",
+  "date": "2026-09-01"
+ },
+ {
+  "id": "095",
+  "title": "Tester-findings fixes",
+  "status": "Shipped",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "094",
+  "title": "Test-automation Stage 0.5",
+  "status": "Shipped",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "093",
+  "title": "Test-automation Stage 0",
+  "status": "Shipped",
+  "date": "2026-08-23"
+ },
+ {
+  "id": "092",
+  "title": "Social instrumentation",
+  "status": "Shipped",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "091",
+  "title": "E2E infrastructure + regression tests",
+  "status": "Closed",
+  "date": "2026-08-24"
+ },
+ {
+  "id": "090",
+  "title": "Manual testing + bug sweep (static half)",
+  "status": "Shipped",
+  "date": "2026-08-21"
+ },
+ {
+  "id": "089",
+  "title": "Collaborative lineups",
+  "status": "Code complete",
+  "date": "2026-08-18"
+ },
+ {
+  "id": "088",
+  "title": "Community deal feed + ownership discovery",
+  "status": "Done",
+  "date": "2026-08-16"
+ },
+ {
+  "id": "087",
+  "title": "Mobile recommendations + universal links + TestFlight",
+  "status": "Merged",
+  "date": "2026-08-02"
+ },
+ {
+  "id": "086",
+  "title": "Mobile person-layer",
+  "status": "Merged",
+  "date": "2026-07-31"
+ },
+ {
+  "id": "085",
+  "title": "Recommendation inbox",
+  "status": "Shipped",
+  "date": "2026-07-29"
+ },
+ {
+  "id": "084",
+  "title": "Social backend foundation",
+  "status": "Shipped",
+  "date": "2026-07-29"
+ }
+]

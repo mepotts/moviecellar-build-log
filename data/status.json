@@ -1,0 +1,52 @@
+{
+ "last_change": "2026-10-02",
+ "commits": {
+  "total": 2110,
+  "released": 1316,
+  "unreleased": 794,
+  "claude_coauthored": 1543,
+  "first": "2026-04-12",
+  "latest": "2026-10-02"
+ },
+ "code": {
+  "lines": 367928,
+  "files": 1785,
+  "test_and_check_lines": 128187,
+  "test_files": 396,
+  "route_handlers": 189,
+  "data_models": 88,
+  "lint_rules": 10,
+  "ci_jobs": 16
+ },
+ "worktrees": 114,
+ "sprints": {
+  "allocated": 112,
+  "by_status": {
+   "Allocated": 4,
+   "Closed": 1,
+   "Code complete": 1,
+   "Complete, not released": 7,
+   "Done": 1,
+   "In progress": 4,
+   "Merged": 2,
+   "Not recorded": 1,
+   "Passed the gate, not released": 1,
+   "Planned": 3,
+   "Shipped": 9
+  }
+ },
+ "release_gate": {
+  "runs": 76,
+  "ready": 7,
+  "passed_not_ready": 5,
+  "blocked": 62,
+  "capture_only": 2,
+  "other": 0,
+  "first_run": "2026-09-15"
+ },
+ "last_release": {
+  "date": "2026-09-19",
+  "candidate": "bb1217c7"
+ },
+ "latest_candidate": "66c30bc2"
+}
