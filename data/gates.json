@@ -24,6 +24,28 @@
  {
   "date": "2026-10-02",
   "candidate": "de4e2ca9",
+  "outcome": "Blocked at the website checks",
+  "steps_passed": 5,
+  "steps_run": 6,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-02",
+  "candidate": "de4e2ca9",
+  "outcome": "Blocked at the website checks",
+  "steps_passed": 5,
+  "steps_run": 6,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-02",
+  "candidate": "de4e2ca9",
   "outcome": "Blocked at the Android device checks",
   "steps_passed": 6,
   "steps_run": 7,
