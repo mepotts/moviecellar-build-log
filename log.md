@@ -3,6 +3,7 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
 - 2026-10-02. Gate run on `de4e2ca9`: Blocked at the Android device checks.
 - 2026-10-02. Gate run on `72a11f16`: Checks passed, review pending.

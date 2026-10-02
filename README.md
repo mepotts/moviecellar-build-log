@@ -9,12 +9,12 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,134 on all branches. 1,316 are released. 818 are on branches that are not released yet.
-- **Agent share:** 1,567 commits (73%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 368,443 lines in 1,786 files. 35% is tests and checks.
+- **Commits:** 2,135 on all branches. 1,316 are released. 819 are on branches that are not released yet.
+- **Agent share:** 1,568 commits (73%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 368,482 lines in 1,786 files. 35% is tests and checks.
 - **Size:** 189 route handlers, 88 data models, 397 test files, 16 CI jobs, 10 lint rules.
 - **Sprints:** 112 sprint numbers allocated.
-- **Release gate:** 81 runs since 2026-09-15. 7 ended ready to ship and 67 ended blocked.
+- **Release gate:** 82 runs since 2026-09-15. 8 ended ready to ship and 67 ended blocked.
 - **Worktrees:** 115 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-09-19, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-02.
@@ -35,6 +35,7 @@ A candidate has to get through every step of the gate. Reviewer agents then grad
 
 | Date (UTC) | Candidate | Outcome | Steps passed | Web checks | Android groups passed |
 |---|---|---|---|---|---|
+| 2026-10-02 | `5d59107a` | Ready to ship | 39 of 39 | 356 passed | 33 of 33 |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
@@ -44,7 +45,6 @@ A candidate has to get through every step of the gate. Reviewer agents then grad
 | 2026-10-02 | `72a11f16` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `72a11f16` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `72a11f16` | Blocked at the Android device checks | 6 of 7 | 356 passed |  |
-| 2026-10-02 | `72a11f16` | Blocked at the website checks | 5 of 6 |  |  |
 
 All runs are in [gates.md](gates.md).
 
@@ -69,6 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
+- 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
 - 2026-10-02. Gate run on `de4e2ca9`: Blocked at the Android device checks.
 - 2026-10-02. Gate run on `72a11f16`: Checks passed, review pending.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-09-30. 2 gate runs on `c4025b6f`: Blocked at the website checks.
 - 2026-09-30. Gate run on `1a0ecb67`: Blocked at the website checks.
 - 2026-09-30. Gate run on `a9789f43`: Blocked at the website checks.
-- 2026-09-30. Gate run on `14978ca0`: Blocked at the website checks.
 
 The full list is in [log.md](log.md).
 

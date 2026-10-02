@@ -1,6 +1,17 @@
 [
  {
   "date": "2026-10-02",
+  "candidate": "5d59107a",
+  "outcome": "Ready to ship",
+  "steps_passed": 39,
+  "steps_run": 39,
+  "web_passed": 356,
+  "web_failed": 0,
+  "android_passed": 33,
+  "android_run": 33
+ },
+ {
+  "date": "2026-10-02",
   "candidate": "de4e2ca9",
   "outcome": "Blocked at the website checks",
   "steps_passed": 5,

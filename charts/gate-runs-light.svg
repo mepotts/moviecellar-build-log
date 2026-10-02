@@ -39,7 +39,8 @@
 <text x="527.0" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 27</text>
 <path d="M629.0 280.0 V175.2 Q629.0 171.2 633.0 171.2 H649.0 Q653.0 171.2 653.0 175.2 V280.0 Z" fill="#86b6ef"/>
 <text x="641.0" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 30</text>
-<path d="M705.0 280.0 V266.4 Q705.0 266.4 705.0 266.4 H729.0 Q729.0 266.4 729.0 266.4 V280.0 Z" fill="#2a78d6"/>
-<path d="M705.0 264.4 V148.0 Q705.0 144.0 709.0 144.0 H725.0 Q729.0 144.0 729.0 148.0 V264.4 Z" fill="#86b6ef"/>
-<text x="717.0" y="138.0" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">10</text>
+<path d="M705.0 280.0 V266.4 Q705.0 266.4 705.0 266.4 H729.0 Q729.0 266.4 729.0 266.4 V280.0 Z" fill="#104281"/>
+<path d="M705.0 264.4 V252.8 Q705.0 252.8 705.0 252.8 H729.0 Q729.0 252.8 729.0 252.8 V264.4 Z" fill="#2a78d6"/>
+<path d="M705.0 250.8 V134.4 Q705.0 130.4 709.0 130.4 H725.0 Q729.0 130.4 729.0 134.4 V250.8 Z" fill="#86b6ef"/>
+<text x="717.0" y="124.4" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">11</text>
 </svg>
