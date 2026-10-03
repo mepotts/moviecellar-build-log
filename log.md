@@ -10,6 +10,13 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-10-02. Gate run on `72a11f16`: Checks passed, review pending.
 - 2026-10-02. 3 gate runs on `72a11f16`: Blocked at the website checks.
 - 2026-10-02. Gate run on `72a11f16`: Blocked at the Android device checks.
+- 2026-10-02. Sprint 116: Allocated.
+- 2026-10-02. Sprint 115: Allocated.
+- 2026-10-02. Sprint 114: Allocated.
+- 2026-10-02. Sprint 112, The assistant answers from the collection: Shipped.
+- 2026-10-02. Sprint 111: Shipped.
+- 2026-10-02. Sprint 110, Library reconcile: Shipped.
+- 2026-10-02. Sprint 108, Removal reflects ownership, history kept: Shipped.
 - 2026-09-30. Gate run on `f4397350`: Blocked at the Android device checks.
 - 2026-09-30. Gate run on `36e38215`: Blocked at the Android device checks.
 - 2026-09-30. Gate run on `e25cc49c`: Blocked at the Android device checks.
@@ -34,9 +41,6 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-09-21. Gate run on `4722eadc`: Blocked at the website checks.
 - 2026-09-21. 2 gate runs on `c7fee277`: Blocked at the website checks.
 - 2026-09-21. Gate run on `3063722f`: Blocked at the website checks.
-- 2026-09-21. Sprint 112, The assistant answers from the collection: In progress.
-- 2026-09-21. Sprint 111: In progress.
-- 2026-09-21. Sprint 110, Library reconcile: In progress.
 - 2026-09-19. Gate run on `580b9a2c`: Ready to ship.
 - 2026-09-19. Gate run on `aaeb141f`: Blocked at the website checks.
 - 2026-09-19. 2 gate runs on `a2a469c9`: Blocked at the website checks.
@@ -48,7 +52,6 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-09-19. Gate run on `bb1217c7`: Blocked at the website checks.
 - 2026-09-19. Gate run on `bb1217c7`: Blocked at the Android device checks.
 - 2026-09-19. Sprint 109, Reconstructed Home collection history: Shipped.
-- 2026-09-19. Sprint 108, Removal reflects ownership, history kept: Passed the gate, not released.
 - 2026-09-18. Gate run on `875319ec`: Ready to ship.
 - 2026-09-18. Gate run on `875319ec`: Blocked at the website checks.
 - 2026-09-18. Gate run on `875319ec`: Blocked after its steps passed.
