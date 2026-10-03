@@ -3,6 +3,7 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-02. Newest commit on the released branch: `5d59107a`.
 - 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
 - 2026-10-02. Gate run on `de4e2ca9`: Blocked at the Android device checks.
@@ -36,7 +37,6 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-09-21. Sprint 112, The assistant answers from the collection: In progress.
 - 2026-09-21. Sprint 111: In progress.
 - 2026-09-21. Sprint 110, Library reconcile: In progress.
-- 2026-09-19. Newest commit on the released branch: `bb1217c7`.
 - 2026-09-19. Gate run on `580b9a2c`: Ready to ship.
 - 2026-09-19. Gate run on `aaeb141f`: Blocked at the website checks.
 - 2026-09-19. 2 gate runs on `a2a469c9`: Blocked at the website checks.

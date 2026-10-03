@@ -5,18 +5,18 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-10-02
+**Last change:** 2026-10-03
 
 ## Now
 
-- **Commits:** 2,135 on all branches. 1,316 are released. 819 are on branches that are not released yet.
+- **Commits:** 2,135 on all branches. 1,895 are released. 240 are on branches that are not released yet.
 - **Agent share:** 1,568 commits (73%) carry a Claude co-author line. Codex commits and merges carry no such line.
 - **Code:** 368,482 lines in 1,786 files. 35% is tests and checks.
 - **Size:** 189 route handlers, 88 data models, 397 test files, 16 CI jobs, 10 lint rules.
 - **Sprints:** 112 sprint numbers allocated.
 - **Release gate:** 82 runs since 2026-09-15. 8 ended ready to ship and 67 ended blocked.
 - **Worktrees:** 115 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-09-19, going by the newest commit on the released branch.
+- **Last release:** 2026-10-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-02.
 
 ## Commits per week
@@ -69,6 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
+- 2026-10-02. Newest commit on the released branch: `5d59107a`.
 - 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
 - 2026-10-02. Gate run on `de4e2ca9`: Blocked at the Android device checks.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-09-30. Gate run on `e25cc49c`: Blocked at the Android device checks.
 - 2026-09-30. 2 gate runs on `c4025b6f`: Blocked at the website checks.
 - 2026-09-30. Gate run on `1a0ecb67`: Blocked at the website checks.
-- 2026-09-30. Gate run on `a9789f43`: Blocked at the website checks.
 
 The full list is in [log.md](log.md).
 
