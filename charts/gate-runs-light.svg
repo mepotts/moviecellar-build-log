@@ -44,6 +44,7 @@
 <path d="M638.5 250.8 V134.4 Q638.5 130.4 642.5 130.4 H658.5 Q662.5 130.4 662.5 134.4 V250.8 Z" fill="#86b6ef"/>
 <path d="M672.7 280.0 V266.4 Q672.7 266.4 672.7 266.4 H696.7 Q696.7 266.4 696.7 266.4 V280.0 Z" fill="#104281"/>
 <path d="M672.7 264.4 V256.8 Q672.7 252.8 676.7 252.8 H692.7 Q696.7 252.8 696.7 256.8 V264.4 Z" fill="#86b6ef"/>
-<text x="684.7" y="246.8" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">2</text>
 <text x="684.7" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 3</text>
+<path d="M706.9 280.0 V270.4 Q706.9 266.4 710.9 266.4 H726.9 Q730.9 266.4 730.9 270.4 V280.0 Z" fill="#86b6ef"/>
+<text x="718.9" y="260.4" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">1</text>
 </svg>
