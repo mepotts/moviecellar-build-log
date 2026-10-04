@@ -3,8 +3,14 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-04. Desktop app version 0.3.14 tagged.
+- 2026-10-04. Sprint 121: Allocated.
+- 2026-10-04. Sprint 120: Allocated.
 - 2026-10-03. Gate run on `eac98cdd`: Ready to ship.
 - 2026-10-03. Gate run on `4f58ac6e`: Blocked at the Android device checks.
+- 2026-10-03. Sprint 117: Allocated.
+- 2026-10-03. Sprint 115: Shipped.
+- 2026-10-03. Sprint 113: Shipped.
 - 2026-10-02. Newest commit on the released branch: `eac98cdd`.
 - 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
@@ -12,9 +18,6 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-10-02. Gate run on `72a11f16`: Checks passed, review pending.
 - 2026-10-02. 3 gate runs on `72a11f16`: Blocked at the website checks.
 - 2026-10-02. Gate run on `72a11f16`: Blocked at the Android device checks.
-- 2026-10-02. Sprint 116: Allocated.
-- 2026-10-02. Sprint 115: Allocated.
-- 2026-10-02. Sprint 114: Allocated.
 - 2026-10-02. Sprint 112, The assistant answers from the collection: Shipped.
 - 2026-10-02. Sprint 111: Shipped.
 - 2026-10-02. Sprint 110, Library reconcile: Shipped.

@@ -9,15 +9,15 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,173 on all branches. 1,924 are released. 249 are on branches that are not released yet.
-- **Agent share:** 1,606 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 375,176 lines in 1,814 files. 35% is tests and checks.
-- **Size:** 189 route handlers, 88 data models, 410 test files, 16 CI jobs, 10 lint rules.
-- **Sprints:** 116 sprint numbers allocated.
+- **Commits:** 2,190 on all branches. 1,924 are released. 266 are on branches that are not released yet.
+- **Agent share:** 1,623 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 375,852 lines in 1,816 files. 35% is tests and checks.
+- **Size:** 189 route handlers, 88 data models, 412 test files, 16 CI jobs, 10 lint rules.
+- **Sprints:** 121 sprint numbers allocated.
 - **Release gate:** 84 runs since 2026-09-15. 9 ended ready to ship and 68 ended blocked.
-- **Worktrees:** 124 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 130 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-02, going by the newest commit on the released branch.
-- **Latest commit:** 2026-10-03.
+- **Latest commit:** 2026-10-04.
 
 ## Commits per week
 
@@ -52,35 +52,35 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
-| 116 | (title pending) | Allocated | 2026-10-02 |
-| 115 | (title pending) | Allocated | 2026-10-02 |
-| 114 | (title pending) | Allocated | 2026-10-02 |
-| 113 | (title pending) | Not recorded |  |
+| 121 | (title pending) | Allocated | 2026-10-04 |
+| 120 | (title pending) | Allocated | 2026-10-04 |
+| 119 | (title pending) | Not recorded |  |
+| 118 | (title pending) | Not recorded |  |
+| 117 | (title pending) | Allocated | 2026-10-03 |
+| 116 | (title pending) | Not recorded |  |
+| 115 | (title pending) | Shipped | 2026-10-03 |
+| 114 | (title pending) | Not recorded |  |
+| 113 | (title pending) | Shipped | 2026-10-03 |
 | 112 | The assistant answers from the collection | Shipped | 2026-10-02 |
 | 111 | (title pending) | Shipped | 2026-10-02 |
 | 110 | Library reconcile | Shipped | 2026-10-02 |
-| 109 | Reconstructed Home collection history | Shipped | 2026-09-19 |
-| 108 | Removal reflects ownership, history kept | Shipped | 2026-10-02 |
-| 107 | Coverage closure follow-ups | Allocated | 2026-09-18 |
-| 106 | tvOS Phase 0 | Allocated | 2026-09-18 |
-| 105 | Automatic catalog growth | Allocated | 2026-09-18 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
 ## Latest events
 
+- 2026-10-04. Desktop app version 0.3.14 tagged.
+- 2026-10-04. Sprint 121: Allocated.
+- 2026-10-04. Sprint 120: Allocated.
 - 2026-10-03. Gate run on `eac98cdd`: Ready to ship.
 - 2026-10-03. Gate run on `4f58ac6e`: Blocked at the Android device checks.
+- 2026-10-03. Sprint 117: Allocated.
+- 2026-10-03. Sprint 115: Shipped.
+- 2026-10-03. Sprint 113: Shipped.
 - 2026-10-02. Newest commit on the released branch: `eac98cdd`.
 - 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
 - 2026-10-02. Gate run on `de4e2ca9`: Blocked at the Android device checks.
-- 2026-10-02. Gate run on `72a11f16`: Checks passed, review pending.
-- 2026-10-02. 3 gate runs on `72a11f16`: Blocked at the website checks.
-- 2026-10-02. Gate run on `72a11f16`: Blocked at the Android device checks.
-- 2026-10-02. Sprint 116: Allocated.
-- 2026-10-02. Sprint 115: Allocated.
-- 2026-10-02. Sprint 114: Allocated.
 
 The full list is in [log.md](log.md).
 
