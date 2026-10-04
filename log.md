@@ -3,6 +3,7 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-04. Gate run on `dd6376c8`: Blocked at the website checks.
 - 2026-10-04. Gate run on `dd6376c8`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `fa41c51f`: Blocked at the Android device checks.
 - 2026-10-04. 2 gate runs on `b48d3ff4`: Blocked at the website checks.

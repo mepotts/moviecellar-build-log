@@ -2,6 +2,17 @@
  {
   "date": "2026-10-04",
   "candidate": "dd6376c8",
+  "outcome": "Blocked at the website checks",
+  "steps_passed": 5,
+  "steps_run": 6,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-04",
+  "candidate": "dd6376c8",
   "outcome": "Blocked at the Android device checks",
   "steps_passed": 29,
   "steps_run": 30,
