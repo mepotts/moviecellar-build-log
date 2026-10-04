@@ -17,6 +17,7 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-10-04. Gate run on `47650037`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `09f22331`: Blocked at the website checks.
 - 2026-10-04. Desktop app version 0.3.14 tagged.
+- 2026-10-04. Sprint 127: Allocated.
 - 2026-10-04. Sprint 126: Allocated.
 - 2026-10-04. Sprint 125: Allocated.
 - 2026-10-04. Sprint 124: Allocated.
@@ -24,6 +25,10 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-10-04. Sprint 122: Allocated.
 - 2026-10-04. Sprint 121: Allocated.
 - 2026-10-04. Sprint 120: Allocated.
+- 2026-10-04. Sprint 119: Shipped.
+- 2026-10-04. Sprint 118: Shipped.
+- 2026-10-04. Sprint 116: Shipped.
+- 2026-10-04. Sprint 114: Shipped.
 - 2026-10-03. Gate run on `eac98cdd`: Ready to ship.
 - 2026-10-03. Gate run on `4f58ac6e`: Blocked at the Android device checks.
 - 2026-10-03. Sprint 117: Allocated.

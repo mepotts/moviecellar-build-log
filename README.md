@@ -9,13 +9,13 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,230 on all branches. 1,964 are released. 266 are on branches that are not released yet.
-- **Agent share:** 1,660 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 377,432 lines in 1,827 files. 35% is tests and checks.
-- **Size:** 190 route handlers, 89 data models, 414 test files, 17 CI jobs, 10 lint rules.
-- **Sprints:** 126 sprint numbers allocated.
+- **Commits:** 2,261 on all branches. 1,964 are released. 297 are on branches that are not released yet.
+- **Agent share:** 1,692 commits (75%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 380,452 lines in 1,839 files. 36% is tests and checks.
+- **Size:** 190 route handlers, 89 data models, 418 test files, 17 CI jobs, 10 lint rules.
+- **Sprints:** 127 sprint numbers allocated.
 - **Release gate:** 100 runs since 2026-09-15. 10 ended ready to ship and 83 ended blocked.
-- **Worktrees:** 138 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 140 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-04, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-04.
 
@@ -52,6 +52,7 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 127 | (title pending) | Allocated | 2026-10-04 |
 | 126 | (title pending) | Allocated | 2026-10-04 |
 | 125 | (title pending) | Allocated | 2026-10-04 |
 | 124 | (title pending) | Allocated | 2026-10-04 |
@@ -59,11 +60,10 @@ All runs are in [gates.md](gates.md).
 | 122 | (title pending) | Allocated | 2026-10-04 |
 | 121 | (title pending) | Allocated | 2026-10-04 |
 | 120 | (title pending) | Allocated | 2026-10-04 |
-| 119 | (title pending) | Not recorded |  |
-| 118 | (title pending) | Not recorded |  |
+| 119 | (title pending) | Shipped | 2026-10-04 |
+| 118 | (title pending) | Shipped | 2026-10-04 |
 | 117 | (title pending) | Allocated | 2026-10-03 |
-| 116 | (title pending) | Not recorded |  |
-| 115 | (title pending) | Shipped | 2026-10-03 |
+| 116 | (title pending) | Shipped | 2026-10-04 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
