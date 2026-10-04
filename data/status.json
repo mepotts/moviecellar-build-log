@@ -1,24 +1,24 @@
 {
  "last_change": "2026-10-04",
  "commits": {
-  "total": 2224,
-  "released": 1924,
-  "unreleased": 300,
-  "claude_coauthored": 1655,
+  "total": 2230,
+  "released": 1964,
+  "unreleased": 266,
+  "claude_coauthored": 1660,
   "first": "2026-04-12",
   "latest": "2026-10-04"
  },
  "code": {
-  "lines": 375962,
-  "files": 1816,
-  "test_and_check_lines": 132699,
-  "test_files": 412,
-  "route_handlers": 189,
-  "data_models": 88,
+  "lines": 377432,
+  "files": 1827,
+  "test_and_check_lines": 133465,
+  "test_files": 414,
+  "route_handlers": 190,
+  "data_models": 89,
   "lint_rules": 10,
-  "ci_jobs": 16
+  "ci_jobs": 17
  },
- "worktrees": 137,
+ "worktrees": 138,
  "sprints": {
   "allocated": 126,
   "by_status": {
@@ -35,8 +35,8 @@
   }
  },
  "release_gate": {
-  "runs": 99,
-  "ready": 9,
+  "runs": 100,
+  "ready": 10,
   "passed_not_ready": 5,
   "blocked": 83,
   "capture_only": 2,
@@ -44,8 +44,8 @@
   "first_run": "2026-09-15"
  },
  "last_release": {
-  "date": "2026-10-02",
-  "candidate": "eac98cdd"
+  "date": "2026-10-04",
+  "candidate": "b4138925"
  },
- "latest_candidate": "b4138925"
+ "latest_candidate": "b808f465"
 }

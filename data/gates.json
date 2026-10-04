@@ -2,6 +2,17 @@
  {
   "date": "2026-10-04",
   "candidate": "b4138925",
+  "outcome": "Ready to ship",
+  "steps_passed": 39,
+  "steps_run": 39,
+  "web_passed": 366,
+  "web_failed": 0,
+  "android_passed": 33,
+  "android_run": 33
+ },
+ {
+  "date": "2026-10-04",
+  "candidate": "b4138925",
   "outcome": "Blocked at the website checks",
   "steps_passed": 5,
   "steps_run": 6,
