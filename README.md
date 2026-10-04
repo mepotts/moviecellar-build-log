@@ -9,12 +9,12 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,208 on all branches. 1,924 are released. 284 are on branches that are not released yet.
-- **Agent share:** 1,641 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 376,627 lines in 1,817 files. 35% is tests and checks.
-- **Size:** 189 route handlers, 88 data models, 413 test files, 16 CI jobs, 10 lint rules.
-- **Sprints:** 121 sprint numbers allocated.
-- **Release gate:** 87 runs since 2026-09-15. 9 ended ready to ship and 71 ended blocked.
+- **Commits:** 2,215 on all branches. 1,924 are released. 291 are on branches that are not released yet.
+- **Agent share:** 1,646 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 379,889 lines in 1,837 files. 35% is tests and checks.
+- **Size:** 189 route handlers, 88 data models, 420 test files, 16 CI jobs, 10 lint rules.
+- **Sprints:** 126 sprint numbers allocated.
+- **Release gate:** 88 runs since 2026-09-15. 9 ended ready to ship and 72 ended blocked.
 - **Worktrees:** 137 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-04.
@@ -29,19 +29,19 @@ This page shows the work as it goes. A script reads the private repository every
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-light.svg#gh-light-mode-only)
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-dark.svg#gh-dark-mode-only)
 
-A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 71 blocked runs, 40 stopped at the website checks, 25 at the Android device checks and 2 at the production build.
+A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 72 blocked runs, 40 stopped at the website checks, 25 at the Android device checks and 2 at the production build.
 
 ## Latest gate runs
 
 | Date (UTC) | Candidate | Outcome | Steps passed | Web checks | Android groups passed |
 |---|---|---|---|---|---|
+| 2026-10-04 | `e2c976ae` | Blocked after its steps passed | 39 of 39 | 366 passed | 33 of 33 |
 | 2026-10-04 | `4e69aba8` | Blocked at the Android device checks | 30 of 31 | 366 passed | 24 of 24 |
 | 2026-10-04 | `47650037` | Blocked at the Android device checks | 36 of 37 | 366 passed | 30 of 30 |
 | 2026-10-04 | `09f22331` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-03 | `eac98cdd` | Ready to ship | 39 of 39 | 366 passed | 33 of 33 |
 | 2026-10-03 | `4f58ac6e` | Blocked at the Android device checks | 36 of 37 | 365 passed | 30 of 30 |
 | 2026-10-02 | `5d59107a` | Ready to ship | 39 of 39 | 356 passed | 33 of 33 |
-| 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
@@ -52,6 +52,11 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 126 | (title pending) | Allocated | 2026-10-04 |
+| 125 | (title pending) | Allocated | 2026-10-04 |
+| 124 | (title pending) | Allocated | 2026-10-04 |
+| 123 | (title pending) | Allocated | 2026-10-04 |
+| 122 | (title pending) | Allocated | 2026-10-04 |
 | 121 | (title pending) | Allocated | 2026-10-04 |
 | 120 | (title pending) | Allocated | 2026-10-04 |
 | 119 | (title pending) | Not recorded |  |
@@ -59,28 +64,23 @@ All runs are in [gates.md](gates.md).
 | 117 | (title pending) | Allocated | 2026-10-03 |
 | 116 | (title pending) | Not recorded |  |
 | 115 | (title pending) | Shipped | 2026-10-03 |
-| 114 | (title pending) | Not recorded |  |
-| 113 | (title pending) | Shipped | 2026-10-03 |
-| 112 | The assistant answers from the collection | Shipped | 2026-10-02 |
-| 111 | (title pending) | Shipped | 2026-10-02 |
-| 110 | Library reconcile | Shipped | 2026-10-02 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
 ## Latest events
 
+- 2026-10-04. Gate run on `e2c976ae`: Blocked after its steps passed.
 - 2026-10-04. Gate run on `4e69aba8`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `47650037`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `09f22331`: Blocked at the website checks.
 - 2026-10-04. Desktop app version 0.3.14 tagged.
+- 2026-10-04. Sprint 126: Allocated.
+- 2026-10-04. Sprint 125: Allocated.
+- 2026-10-04. Sprint 124: Allocated.
+- 2026-10-04. Sprint 123: Allocated.
+- 2026-10-04. Sprint 122: Allocated.
 - 2026-10-04. Sprint 121: Allocated.
 - 2026-10-04. Sprint 120: Allocated.
-- 2026-10-03. Gate run on `eac98cdd`: Ready to ship.
-- 2026-10-03. Gate run on `4f58ac6e`: Blocked at the Android device checks.
-- 2026-10-03. Sprint 117: Allocated.
-- 2026-10-03. Sprint 115: Shipped.
-- 2026-10-03. Sprint 113: Shipped.
-- 2026-10-02. Newest commit on the released branch: `eac98cdd`.
 
 The full list is in [log.md](log.md).
 
