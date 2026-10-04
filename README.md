@@ -9,12 +9,12 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,221 on all branches. 1,924 are released. 297 are on branches that are not released yet.
-- **Agent share:** 1,652 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 381,205 lines in 1,836 files. 35% is tests and checks.
-- **Size:** 189 route handlers, 88 data models, 420 test files, 16 CI jobs, 10 lint rules.
+- **Commits:** 2,224 on all branches. 1,924 are released. 300 are on branches that are not released yet.
+- **Agent share:** 1,655 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 375,962 lines in 1,816 files. 35% is tests and checks.
+- **Size:** 189 route handlers, 88 data models, 412 test files, 16 CI jobs, 10 lint rules.
 - **Sprints:** 126 sprint numbers allocated.
-- **Release gate:** 96 runs since 2026-09-15. 9 ended ready to ship and 80 ended blocked.
+- **Release gate:** 98 runs since 2026-09-15. 9 ended ready to ship and 82 ended blocked.
 - **Worktrees:** 137 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-04.
@@ -29,12 +29,14 @@ This page shows the work as it goes. A script reads the private repository every
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-light.svg#gh-light-mode-only)
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-dark.svg#gh-dark-mode-only)
 
-A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 80 blocked runs, 44 stopped at the website checks, 28 at the Android device checks and 2 at the production build.
+A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 82 blocked runs, 45 stopped at the website checks, 29 at the Android device checks and 2 at the production build.
 
 ## Latest gate runs
 
 | Date (UTC) | Candidate | Outcome | Steps passed | Web checks | Android groups passed |
 |---|---|---|---|---|---|
+| 2026-10-04 | `dd30b9e5` | Blocked at the website checks | 5 of 6 |  |  |
+| 2026-10-04 | `dd6376c8` | Blocked at the Android device checks | 36 of 37 | 366 passed | 30 of 30 |
 | 2026-10-04 | `dd6376c8` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-04 | `dd6376c8` | Blocked at the Android device checks | 13 of 14 | 366 passed | 7 of 7 |
 | 2026-10-04 | `dd6376c8` | Blocked at the website checks | 5 of 6 |  |  |
@@ -43,8 +45,6 @@ A candidate has to get through every step of the gate. Reviewer agents then grad
 | 2026-10-04 | `b48d3ff4` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-04 | `b48d3ff4` | Blocked after its steps passed |  |  |  |
 | 2026-10-04 | `b48d3ff4` | Blocked at the website checks | 5 of 6 |  |  |
-| 2026-10-04 | `e2c976ae` | Blocked after its steps passed | 39 of 39 | 366 passed | 33 of 33 |
-| 2026-10-04 | `4e69aba8` | Blocked at the Android device checks | 30 of 31 | 366 passed | 24 of 24 |
 
 All runs are in [gates.md](gates.md).
 
@@ -69,8 +69,9 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
+- 2026-10-04. Gate run on `dd30b9e5`: Blocked at the website checks.
+- 2026-10-04. 3 gate runs on `dd6376c8`: Blocked at the Android device checks.
 - 2026-10-04. 2 gate runs on `dd6376c8`: Blocked at the website checks.
-- 2026-10-04. 2 gate runs on `dd6376c8`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `fa41c51f`: Blocked at the Android device checks.
 - 2026-10-04. 2 gate runs on `b48d3ff4`: Blocked at the website checks.
 - 2026-10-04. Gate run on `b48d3ff4`: Blocked after its steps passed.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-04. Gate run on `09f22331`: Blocked at the website checks.
 - 2026-10-04. Desktop app version 0.3.14 tagged.
 - 2026-10-04. Sprint 126: Allocated.
-- 2026-10-04. Sprint 125: Allocated.
 
 The full list is in [log.md](log.md).
 
