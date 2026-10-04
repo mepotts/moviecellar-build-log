@@ -35,10 +35,10 @@
   }
  },
  "release_gate": {
-  "runs": 98,
+  "runs": 99,
   "ready": 9,
   "passed_not_ready": 5,
-  "blocked": 82,
+  "blocked": 83,
   "capture_only": 2,
   "other": 0,
   "first_run": "2026-09-15"
