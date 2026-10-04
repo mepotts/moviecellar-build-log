@@ -5,17 +5,17 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-10-03
+**Last change:** 2026-10-04
 
 ## Now
 
-- **Commits:** 2,163 on all branches. 1,895 are released. 268 are on branches that are not released yet.
-- **Agent share:** 1,596 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 374,575 lines in 1,814 files. 35% is tests and checks.
+- **Commits:** 2,173 on all branches. 1,924 are released. 249 are on branches that are not released yet.
+- **Agent share:** 1,606 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 375,176 lines in 1,814 files. 35% is tests and checks.
 - **Size:** 189 route handlers, 88 data models, 410 test files, 16 CI jobs, 10 lint rules.
 - **Sprints:** 116 sprint numbers allocated.
 - **Release gate:** 84 runs since 2026-09-15. 9 ended ready to ship and 68 ended blocked.
-- **Worktrees:** 122 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 124 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-03.
 
@@ -71,7 +71,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 - 2026-10-03. Gate run on `eac98cdd`: Ready to ship.
 - 2026-10-03. Gate run on `4f58ac6e`: Blocked at the Android device checks.
-- 2026-10-02. Newest commit on the released branch: `5d59107a`.
+- 2026-10-02. Newest commit on the released branch: `eac98cdd`.
 - 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 - 2026-10-02. 4 gate runs on `de4e2ca9`: Blocked at the website checks.
 - 2026-10-02. Gate run on `de4e2ca9`: Blocked at the Android device checks.
