@@ -1,6 +1,39 @@
 [
  {
   "date": "2026-10-04",
+  "candidate": "b48d3ff4",
+  "outcome": "Blocked at the website checks",
+  "steps_passed": 5,
+  "steps_run": 6,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-04",
+  "candidate": "b48d3ff4",
+  "outcome": "Blocked after its steps passed",
+  "steps_passed": 0,
+  "steps_run": 0,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-04",
+  "candidate": "b48d3ff4",
+  "outcome": "Blocked at the website checks",
+  "steps_passed": 5,
+  "steps_run": 6,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-04",
   "candidate": "e2c976ae",
   "outcome": "Blocked after its steps passed",
   "steps_passed": 39,
