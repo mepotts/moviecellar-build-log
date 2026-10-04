@@ -9,13 +9,13 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,202 on all branches. 1,924 are released. 278 are on branches that are not released yet.
-- **Agent share:** 1,635 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Commits:** 2,208 on all branches. 1,924 are released. 284 are on branches that are not released yet.
+- **Agent share:** 1,641 commits (74%) carry a Claude co-author line. Codex commits and merges carry no such line.
 - **Code:** 376,627 lines in 1,817 files. 35% is tests and checks.
 - **Size:** 189 route handlers, 88 data models, 413 test files, 16 CI jobs, 10 lint rules.
 - **Sprints:** 121 sprint numbers allocated.
-- **Release gate:** 86 runs since 2026-09-15. 9 ended ready to ship and 70 ended blocked.
-- **Worktrees:** 132 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Release gate:** 87 runs since 2026-09-15. 9 ended ready to ship and 71 ended blocked.
+- **Worktrees:** 137 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-04.
 
@@ -29,12 +29,13 @@ This page shows the work as it goes. A script reads the private repository every
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-light.svg#gh-light-mode-only)
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-dark.svg#gh-dark-mode-only)
 
-A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 70 blocked runs, 40 stopped at the website checks, 24 at the Android device checks and 2 at the production build.
+A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 71 blocked runs, 40 stopped at the website checks, 25 at the Android device checks and 2 at the production build.
 
 ## Latest gate runs
 
 | Date (UTC) | Candidate | Outcome | Steps passed | Web checks | Android groups passed |
 |---|---|---|---|---|---|
+| 2026-10-04 | `4e69aba8` | Blocked at the Android device checks | 30 of 31 | 366 passed | 24 of 24 |
 | 2026-10-04 | `47650037` | Blocked at the Android device checks | 36 of 37 | 366 passed | 30 of 30 |
 | 2026-10-04 | `09f22331` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-03 | `eac98cdd` | Ready to ship | 39 of 39 | 366 passed | 33 of 33 |
@@ -44,7 +45,6 @@ A candidate has to get through every step of the gate. Reviewer agents then grad
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-02 | `de4e2ca9` | Blocked at the website checks | 5 of 6 |  |  |
-| 2026-10-02 | `de4e2ca9` | Blocked at the Android device checks | 6 of 7 | 356 passed |  |
 
 All runs are in [gates.md](gates.md).
 
@@ -69,6 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
+- 2026-10-04. Gate run on `4e69aba8`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `47650037`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `09f22331`: Blocked at the website checks.
 - 2026-10-04. Desktop app version 0.3.14 tagged.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-03. Sprint 115: Shipped.
 - 2026-10-03. Sprint 113: Shipped.
 - 2026-10-02. Newest commit on the released branch: `eac98cdd`.
-- 2026-10-02. Gate run on `5d59107a`: Ready to ship.
 
 The full list is in [log.md](log.md).
 
