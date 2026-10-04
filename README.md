@@ -14,7 +14,7 @@ This page shows the work as it goes. A script reads the private repository every
 - **Code:** 381,205 lines in 1,836 files. 35% is tests and checks.
 - **Size:** 189 route handlers, 88 data models, 420 test files, 16 CI jobs, 10 lint rules.
 - **Sprints:** 126 sprint numbers allocated.
-- **Release gate:** 94 runs since 2026-09-15. 9 ended ready to ship and 78 ended blocked.
+- **Release gate:** 96 runs since 2026-09-15. 9 ended ready to ship and 80 ended blocked.
 - **Worktrees:** 137 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-04.
@@ -29,12 +29,14 @@ This page shows the work as it goes. A script reads the private repository every
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-light.svg#gh-light-mode-only)
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-dark.svg#gh-dark-mode-only)
 
-A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 78 blocked runs, 43 stopped at the website checks, 27 at the Android device checks and 2 at the production build.
+A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 80 blocked runs, 44 stopped at the website checks, 28 at the Android device checks and 2 at the production build.
 
 ## Latest gate runs
 
 | Date (UTC) | Candidate | Outcome | Steps passed | Web checks | Android groups passed |
 |---|---|---|---|---|---|
+| 2026-10-04 | `dd6376c8` | Blocked at the website checks | 5 of 6 |  |  |
+| 2026-10-04 | `dd6376c8` | Blocked at the Android device checks | 13 of 14 | 366 passed | 7 of 7 |
 | 2026-10-04 | `dd6376c8` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-04 | `dd6376c8` | Blocked at the Android device checks | 29 of 30 | 366 passed | 23 of 23 |
 | 2026-10-04 | `fa41c51f` | Blocked at the Android device checks | 6 of 7 | 366 passed |  |
@@ -43,8 +45,6 @@ A candidate has to get through every step of the gate. Reviewer agents then grad
 | 2026-10-04 | `b48d3ff4` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-04 | `e2c976ae` | Blocked after its steps passed | 39 of 39 | 366 passed | 33 of 33 |
 | 2026-10-04 | `4e69aba8` | Blocked at the Android device checks | 30 of 31 | 366 passed | 24 of 24 |
-| 2026-10-04 | `47650037` | Blocked at the Android device checks | 36 of 37 | 366 passed | 30 of 30 |
-| 2026-10-04 | `09f22331` | Blocked at the website checks | 5 of 6 |  |  |
 
 All runs are in [gates.md](gates.md).
 
@@ -69,8 +69,8 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-10-04. Gate run on `dd6376c8`: Blocked at the website checks.
-- 2026-10-04. Gate run on `dd6376c8`: Blocked at the Android device checks.
+- 2026-10-04. 2 gate runs on `dd6376c8`: Blocked at the website checks.
+- 2026-10-04. 2 gate runs on `dd6376c8`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `fa41c51f`: Blocked at the Android device checks.
 - 2026-10-04. 2 gate runs on `b48d3ff4`: Blocked at the website checks.
 - 2026-10-04. Gate run on `b48d3ff4`: Blocked after its steps passed.
