@@ -18,7 +18,7 @@
   "lint_rules": 10,
   "ci_jobs": 16
  },
- "worktrees": 131,
+ "worktrees": 132,
  "sprints": {
   "allocated": 121,
   "by_status": {
@@ -35,10 +35,10 @@
   }
  },
  "release_gate": {
-  "runs": 85,
+  "runs": 86,
   "ready": 9,
   "passed_not_ready": 5,
-  "blocked": 69,
+  "blocked": 70,
   "capture_only": 2,
   "other": 0,
   "first_run": "2026-09-15"
