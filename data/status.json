@@ -1,10 +1,10 @@
 {
  "last_change": "2026-10-04",
  "commits": {
-  "total": 2219,
+  "total": 2221,
   "released": 1924,
-  "unreleased": 295,
-  "claude_coauthored": 1650,
+  "unreleased": 297,
+  "claude_coauthored": 1652,
   "first": "2026-04-12",
   "latest": "2026-10-04"
  },
@@ -35,10 +35,10 @@
   }
  },
  "release_gate": {
-  "runs": 91,
+  "runs": 92,
   "ready": 9,
   "passed_not_ready": 5,
-  "blocked": 75,
+  "blocked": 76,
   "capture_only": 2,
   "other": 0,
   "first_run": "2026-09-15"
