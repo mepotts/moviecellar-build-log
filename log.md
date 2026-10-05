@@ -3,6 +3,8 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-05. Newest commit on the released branch: `dce76a99`.
+- 2026-10-05. Gate run on `dce76a99`: Ready to ship.
 - 2026-10-05. Gate run on `a28eb60f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.
 - 2026-10-05. Gate run on `c979cd9d`: Ready to ship.
@@ -11,7 +13,7 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-10-05. Gate run on `67cbaa7f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `bfbea595`: Blocked at the website checks.
 - 2026-10-05. Gate run on `44434d18`: Other.
-- 2026-10-04. Newest commit on the released branch: `c979cd9d`.
+- 2026-10-05. Sprint 128: Allocated.
 - 2026-10-04. Gate run on `b4138925`: Ready to ship.
 - 2026-10-04. Gate run on `b4138925`: Blocked at the website checks.
 - 2026-10-04. Gate run on `dd30b9e5`: Blocked at the website checks.
