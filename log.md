@@ -3,6 +3,7 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.
 - 2026-10-05. Gate run on `c979cd9d`: Ready to ship.
 - 2026-10-05. Gate run on `9d3c38b3`: Blocked at the website checks.
 - 2026-10-05. Gate run on `3f35db45`: Blocked at the website checks.
