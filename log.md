@@ -23,18 +23,19 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-10-04. Gate run on `47650037`: Blocked at the Android device checks.
 - 2026-10-04. Gate run on `09f22331`: Blocked at the website checks.
 - 2026-10-04. Desktop app version 0.3.14 tagged.
-- 2026-10-04. Sprint 127: Allocated.
-- 2026-10-04. Sprint 126: Allocated.
-- 2026-10-04. Sprint 125: Allocated.
-- 2026-10-04. Sprint 124: Allocated.
-- 2026-10-04. Sprint 123: Allocated.
-- 2026-10-04. Sprint 122: Allocated.
-- 2026-10-04. Sprint 121: Allocated.
-- 2026-10-04. Sprint 120: Allocated.
+- 2026-10-04. Sprint 127: Shipped.
+- 2026-10-04. Sprint 126: Shipped.
+- 2026-10-04. Sprint 125: Shipped.
+- 2026-10-04. Sprint 124: Shipped.
+- 2026-10-04. Sprint 123: Shipped.
+- 2026-10-04. Sprint 122: Shipped.
+- 2026-10-04. Sprint 121: Shipped.
+- 2026-10-04. Sprint 120: Shipped.
 - 2026-10-04. Sprint 119: Shipped.
 - 2026-10-04. Sprint 118: Shipped.
 - 2026-10-04. Sprint 116: Shipped.
 - 2026-10-04. Sprint 114: Shipped.
+- 2026-10-04. Sprint 097, Collapse the Home backend critical path: Shipped.
 - 2026-10-03. Gate run on `eac98cdd`: Ready to ship.
 - 2026-10-03. Gate run on `4f58ac6e`: Blocked at the Android device checks.
 - 2026-10-03. Sprint 117: Allocated.
@@ -129,7 +130,6 @@ Gate runs, sprint status dates, releases and desktop version tags, newest first.
 - 2026-09-06. Sprint 099b, Android and web regression fixes: Complete, not released.
 - 2026-09-05. Sprint 099, Native mobile automation and signup repair: Complete, not released.
 - 2026-09-01. Sprint 098, Mobile fast path + progressive Home rendering: Planned.
-- 2026-09-01. Sprint 097, Collapse the Home backend critical path: Planned.
 - 2026-09-01. Sprint 096, Mobile home performance baseline + request hygiene: Planned.
 - 2026-08-24. Sprint 092, Social instrumentation: Shipped.
 - 2026-08-24. Sprint 091, E2E infrastructure + regression tests: Closed.

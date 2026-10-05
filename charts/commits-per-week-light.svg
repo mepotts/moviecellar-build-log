@@ -41,8 +41,8 @@
 <text x="622.0" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep</text>
 <path d="M635.7 280.0 V194.2 Q635.7 190.2 639.7 190.2 H655.0 Q659.0 190.2 659.0 194.2 V280.0 Z" fill="#2a78d6"/>
 <path d="M661.0 280.0 V177.9 Q661.0 173.9 665.0 173.9 H680.3 Q684.3 173.9 684.3 177.9 V280.0 Z" fill="#2a78d6"/>
-<path d="M686.3 280.0 V146.6 Q686.3 142.6 690.3 142.6 H705.7 Q709.7 142.6 709.7 146.6 V280.0 Z" fill="#2a78d6"/>
-<text x="698.0" y="136.6" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">404</text>
-<path d="M711.7 280.0 V280.0 Q711.7 276.3 715.4 276.3 H731.3 Q735.0 276.3 735.0 280.0 V280.0 Z" fill="#2a78d6"/>
+<path d="M686.3 280.0 V143.2 Q686.3 139.2 690.3 139.2 H705.7 Q709.7 139.2 709.7 143.2 V280.0 Z" fill="#2a78d6"/>
+<text x="698.0" y="133.2" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">414</text>
+<path d="M711.7 280.0 V275.8 Q711.7 271.8 715.7 271.8 H731.0 Q735.0 271.8 735.0 275.8 V280.0 Z" fill="#2a78d6"/>
 <text x="723.3" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct</text>
 </svg>

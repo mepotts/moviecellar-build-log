@@ -2,49 +2,49 @@
  {
   "id": "127",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "126",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "125",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "124",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "123",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "122",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "121",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
   "id": "120",
   "title": null,
-  "status": "Allocated",
+  "status": "Shipped",
   "date": "2026-10-04"
  },
  {
@@ -212,8 +212,8 @@
  {
   "id": "097",
   "title": "Collapse the Home backend critical path",
-  "status": "Planned",
-  "date": "2026-09-01"
+  "status": "Shipped",
+  "date": "2026-10-04"
  },
  {
   "id": "096",

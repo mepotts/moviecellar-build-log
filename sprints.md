@@ -5,14 +5,14 @@
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
-| 127 | (title pending) | Allocated | 2026-10-04 |
-| 126 | (title pending) | Allocated | 2026-10-04 |
-| 125 | (title pending) | Allocated | 2026-10-04 |
-| 124 | (title pending) | Allocated | 2026-10-04 |
-| 123 | (title pending) | Allocated | 2026-10-04 |
-| 122 | (title pending) | Allocated | 2026-10-04 |
-| 121 | (title pending) | Allocated | 2026-10-04 |
-| 120 | (title pending) | Allocated | 2026-10-04 |
+| 127 | (title pending) | Shipped | 2026-10-04 |
+| 126 | (title pending) | Shipped | 2026-10-04 |
+| 125 | (title pending) | Shipped | 2026-10-04 |
+| 124 | (title pending) | Shipped | 2026-10-04 |
+| 123 | (title pending) | Shipped | 2026-10-04 |
+| 122 | (title pending) | Shipped | 2026-10-04 |
+| 121 | (title pending) | Shipped | 2026-10-04 |
+| 120 | (title pending) | Shipped | 2026-10-04 |
 | 119 | (title pending) | Shipped | 2026-10-04 |
 | 118 | (title pending) | Shipped | 2026-10-04 |
 | 117 | (title pending) | Allocated | 2026-10-03 |
@@ -40,7 +40,7 @@
 | 099b | Android and web regression fixes | Complete, not released | 2026-09-06 |
 | 099 | Native mobile automation and signup repair | Complete, not released | 2026-09-05 |
 | 098 | Mobile fast path + progressive Home rendering | Planned | 2026-09-01 |
-| 097 | Collapse the Home backend critical path | Planned | 2026-09-01 |
+| 097 | Collapse the Home backend critical path | Shipped | 2026-10-04 |
 | 096 | Mobile home performance baseline + request hygiene | Planned | 2026-09-01 |
 | 095 | Tester-findings fixes | Shipped | 2026-08-23 |
 | 094 | Test-automation Stage 0.5 | Shipped | 2026-08-23 |

@@ -9,9 +9,9 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 2,392 on all branches. 2,071 are released. 321 are on branches that are not released yet.
-- **Agent share:** 1,823 commits (76%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 403,962 lines in 1,929 files. 36% is tests and checks.
+- **Commits:** 2,415 on all branches. 2,071 are released. 344 are on branches that are not released yet.
+- **Agent share:** 1,846 commits (76%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 404,019 lines in 1,929 files. 36% is tests and checks.
 - **Size:** 190 route handlers, 89 data models, 458 test files, 17 CI jobs, 10 lint rules.
 - **Sprints:** 127 sprint numbers allocated.
 - **Release gate:** 106 runs since 2026-09-15. 11 ended ready to ship and 87 ended blocked.
@@ -52,14 +52,14 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
-| 127 | (title pending) | Allocated | 2026-10-04 |
-| 126 | (title pending) | Allocated | 2026-10-04 |
-| 125 | (title pending) | Allocated | 2026-10-04 |
-| 124 | (title pending) | Allocated | 2026-10-04 |
-| 123 | (title pending) | Allocated | 2026-10-04 |
-| 122 | (title pending) | Allocated | 2026-10-04 |
-| 121 | (title pending) | Allocated | 2026-10-04 |
-| 120 | (title pending) | Allocated | 2026-10-04 |
+| 127 | (title pending) | Shipped | 2026-10-04 |
+| 126 | (title pending) | Shipped | 2026-10-04 |
+| 125 | (title pending) | Shipped | 2026-10-04 |
+| 124 | (title pending) | Shipped | 2026-10-04 |
+| 123 | (title pending) | Shipped | 2026-10-04 |
+| 122 | (title pending) | Shipped | 2026-10-04 |
+| 121 | (title pending) | Shipped | 2026-10-04 |
+| 120 | (title pending) | Shipped | 2026-10-04 |
 | 119 | (title pending) | Shipped | 2026-10-04 |
 | 118 | (title pending) | Shipped | 2026-10-04 |
 | 117 | (title pending) | Allocated | 2026-10-03 |
