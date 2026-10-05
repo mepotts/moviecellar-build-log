@@ -1,6 +1,17 @@
 [
  {
   "date": "2026-10-05",
+  "candidate": "9d3c38b3",
+  "outcome": "Blocked at the website checks",
+  "steps_passed": 5,
+  "steps_run": 6,
+  "web_passed": 0,
+  "web_failed": 0,
+  "android_passed": 0,
+  "android_run": 0
+ },
+ {
+  "date": "2026-10-05",
   "candidate": "3f35db45",
   "outcome": "Blocked at the website checks",
   "steps_passed": 5,
