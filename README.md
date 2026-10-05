@@ -5,17 +5,17 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-10-04
+**Last change:** 2026-10-05
 
 ## Now
 
-- **Commits:** 2,346 on all branches. 1,964 are released. 382 are on branches that are not released yet.
-- **Agent share:** 1,777 commits (76%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 402,350 lines in 1,924 files. 36% is tests and checks.
+- **Commits:** 2,354 on all branches. 1,964 are released. 390 are on branches that are not released yet.
+- **Agent share:** 1,785 commits (76%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 402,391 lines in 1,924 files. 36% is tests and checks.
 - **Size:** 190 route handlers, 89 data models, 456 test files, 17 CI jobs, 10 lint rules.
 - **Sprints:** 127 sprint numbers allocated.
-- **Release gate:** 100 runs since 2026-09-15. 10 ended ready to ship and 83 ended blocked.
-- **Worktrees:** 137 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Release gate:** 102 runs since 2026-09-15. 10 ended ready to ship and 84 ended blocked.
+- **Worktrees:** 135 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-04, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-04.
 
@@ -29,12 +29,14 @@ This page shows the work as it goes. A script reads the private repository every
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-light.svg#gh-light-mode-only)
 ![Release gate runs per day by outcome, as a stacked column chart](charts/gate-runs-dark.svg#gh-dark-mode-only)
 
-A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 83 blocked runs, 46 stopped at the website checks, 29 at the Android device checks and 2 at the production build.
+A candidate has to get through every step of the gate. Reviewer agents then grade the screenshots before it counts as ready. Of the 84 blocked runs, 47 stopped at the website checks, 29 at the Android device checks and 2 at the production build.
 
 ## Latest gate runs
 
 | Date (UTC) | Candidate | Outcome | Steps passed | Web checks | Android groups passed |
 |---|---|---|---|---|---|
+| 2026-10-05 | `bfbea595` | Blocked at the website checks | 5 of 6 |  |  |
+| 2026-10-05 | `44434d18` | Other | 6 of 6 |  |  |
 | 2026-10-04 | `b4138925` | Ready to ship | 39 of 39 | 366 passed | 33 of 33 |
 | 2026-10-04 | `b4138925` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-04 | `dd30b9e5` | Blocked at the website checks | 5 of 6 |  |  |
@@ -43,8 +45,6 @@ A candidate has to get through every step of the gate. Reviewer agents then grad
 | 2026-10-04 | `dd6376c8` | Blocked at the Android device checks | 13 of 14 | 366 passed | 7 of 7 |
 | 2026-10-04 | `dd6376c8` | Blocked at the website checks | 5 of 6 |  |  |
 | 2026-10-04 | `dd6376c8` | Blocked at the Android device checks | 29 of 30 | 366 passed | 23 of 23 |
-| 2026-10-04 | `fa41c51f` | Blocked at the Android device checks | 6 of 7 | 366 passed |  |
-| 2026-10-04 | `b48d3ff4` | Blocked at the website checks | 5 of 6 |  |  |
 
 All runs are in [gates.md](gates.md).
 
@@ -69,6 +69,8 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
+- 2026-10-05. Gate run on `bfbea595`: Blocked at the website checks.
+- 2026-10-05. Gate run on `44434d18`: Other.
 - 2026-10-04. Newest commit on the released branch: `b4138925`.
 - 2026-10-04. Gate run on `b4138925`: Ready to ship.
 - 2026-10-04. Gate run on `b4138925`: Blocked at the website checks.
@@ -79,8 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-04. 2 gate runs on `b48d3ff4`: Blocked at the website checks.
 - 2026-10-04. Gate run on `b48d3ff4`: Blocked after its steps passed.
 - 2026-10-04. Gate run on `e2c976ae`: Blocked after its steps passed.
-- 2026-10-04. Gate run on `4e69aba8`: Blocked at the Android device checks.
-- 2026-10-04. Gate run on `47650037`: Blocked at the Android device checks.
 
 The full list is in [log.md](log.md).
 

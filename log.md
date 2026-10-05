@@ -3,6 +3,8 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
+- 2026-10-05. Gate run on `bfbea595`: Blocked at the website checks.
+- 2026-10-05. Gate run on `44434d18`: Other.
 - 2026-10-04. Newest commit on the released branch: `b4138925`.
 - 2026-10-04. Gate run on `b4138925`: Ready to ship.
 - 2026-10-04. Gate run on `b4138925`: Blocked at the website checks.
