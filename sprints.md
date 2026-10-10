@@ -19,6 +19,7 @@
 | 117 | (title pending) | Allocated | 2026-10-03 |
 | 116 | (title pending) | Shipped | 2026-10-04 |
 | 115 | (title pending) | Shipped | 2026-10-03 |
+| 114b | (title pending) | Not recorded |  |
 | 114 | (title pending) | Shipped | 2026-10-04 |
 | 113 | (title pending) | Shipped | 2026-10-03 |
 | 112 | The assistant answers from the collection | Shipped | 2026-10-02 |
