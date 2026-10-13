@@ -1,12 +1,12 @@
 {
- "last_change": "2026-10-12",
+ "last_change": "2026-10-13",
  "commits": {
-  "total": 2795,
+  "total": 2799,
   "released": 2119,
-  "unreleased": 676,
+  "unreleased": 680,
   "claude_coauthored": 1909,
   "first": "2026-04-12",
-  "latest": "2026-10-12"
+  "latest": "2026-10-13"
  },
  "code": {
   "lines": 422474,
@@ -47,5 +47,5 @@
   "date": "2026-10-05",
   "candidate": "dce76a99"
  },
- "latest_candidate": "297978a4"
+ "latest_candidate": "41d1bb41"
 }
