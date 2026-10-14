@@ -18,7 +18,7 @@
   "lint_rules": 11,
   "ci_jobs": 17
  },
- "worktrees": 152,
+ "worktrees": 153,
  "sprints": {
   "allocated": 128,
   "by_status": {
