@@ -1,9 +1,9 @@
 {
  "last_change": "2026-10-15",
  "commits": {
-  "total": 2895,
+  "total": 2898,
   "released": 2119,
-  "unreleased": 776,
+  "unreleased": 779,
   "claude_coauthored": 1909,
   "first": "2026-04-12",
   "latest": "2026-10-14"
@@ -18,7 +18,7 @@
   "lint_rules": 11,
   "ci_jobs": 17
  },
- "worktrees": 155,
+ "worktrees": 156,
  "sprints": {
   "allocated": 128,
   "by_status": {
