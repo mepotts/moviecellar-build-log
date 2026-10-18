@@ -9,10 +9,10 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 3,029 on all branches. 2,248 are released. 784 are on branches that are not released yet.
-- **Agent share:** 1,921 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 431,149 lines in 2,054 files. 39% is tests and checks.
-- **Size:** 192 route handlers, 90 data models, 531 test files, 18 CI jobs, 11 lint rules.
+- **Commits:** 3,038 on all branches. 2,253 are released. 785 are on branches that are not released yet.
+- **Agent share:** 1,927 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 432,056 lines in 2,065 files. 39% is tests and checks.
+- **Size:** 192 route handlers, 90 data models, 535 test files, 18 CI jobs, 11 lint rules.
 - **Sprints:** 129 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
 - **Worktrees:** 162 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
@@ -52,7 +52,7 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
-| 129 | (title pending) | In progress | 2026-10-18 |
+| 129 | (title pending) | Not recorded |  |
 | 128 | (title pending) | Allocated | 2026-10-05 |
 | 127 | (title pending) | Shipped | 2026-10-04 |
 | 126 | (title pending) | Shipped | 2026-10-04 |
@@ -69,8 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-10-18. Newest commit on the released branch: `cc90890e`.
-- 2026-10-18. Sprint 129: In progress.
+- 2026-10-18. Newest commit on the released branch: `7acee4bd`.
 - 2026-10-05. Gate run on `dce76a99`: Ready to ship.
 - 2026-10-05. Gate run on `a28eb60f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.
@@ -81,6 +80,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-05. Gate run on `bfbea595`: Blocked at the website checks.
 - 2026-10-05. Gate run on `44434d18`: Other.
 - 2026-10-05. Sprint 128: Allocated.
+- 2026-10-04. Gate run on `b4138925`: Ready to ship.
 
 The full list is in [log.md](log.md).
 
