@@ -1,24 +1,24 @@
 {
  "last_change": "2026-10-18",
  "commits": {
-  "total": 3023,
+  "total": 3028,
   "released": 2245,
-  "unreleased": 778,
-  "claude_coauthored": 1917,
+  "unreleased": 783,
+  "claude_coauthored": 1920,
   "first": "2026-04-12",
   "latest": "2026-10-18"
  },
  "code": {
-  "lines": 431016,
-  "files": 2053,
-  "test_and_check_lines": 168983,
-  "test_files": 530,
+  "lines": 431388,
+  "files": 2057,
+  "test_and_check_lines": 169212,
+  "test_files": 532,
   "route_handlers": 192,
   "data_models": 90,
   "lint_rules": 11,
   "ci_jobs": 17
  },
- "worktrees": 161,
+ "worktrees": 162,
  "sprints": {
   "allocated": 128,
   "by_status": {
@@ -47,5 +47,5 @@
   "date": "2026-10-18",
   "candidate": "009d6999"
  },
- "latest_candidate": "2569350e"
+ "latest_candidate": "dfc5461b"
 }
