@@ -5,19 +5,19 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-10-16
+**Last change:** 2026-10-18
 
 ## Now
 
-- **Commits:** 3,002 on all branches. 2,119 are released. 883 are on branches that are not released yet.
-- **Agent share:** 1,910 commits (64%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Commits:** 3,009 on all branches. 2,244 are released. 765 are on branches that are not released yet.
+- **Agent share:** 1,910 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
 - **Code:** 430,967 lines in 2,053 files. 39% is tests and checks.
 - **Size:** 192 route handlers, 90 data models, 530 test files, 17 CI jobs, 11 lint rules.
 - **Sprints:** 128 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
 - **Worktrees:** 157 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-10-05, going by the newest commit on the released branch.
-- **Latest commit:** 2026-10-16.
+- **Last release:** 2026-10-16, going by the newest commit on the released branch.
+- **Latest commit:** 2026-10-17.
 
 ## Commits per week
 
@@ -69,7 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-10-05. Newest commit on the released branch: `dce76a99`.
+- 2026-10-16. Newest commit on the released branch: `96d8107e`.
 - 2026-10-05. Gate run on `dce76a99`: Ready to ship.
 - 2026-10-05. Gate run on `a28eb60f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.

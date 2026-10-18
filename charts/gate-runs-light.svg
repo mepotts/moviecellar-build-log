@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" role="img" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
 <title>Release gate runs per day</title>
-<desc>Stacked column chart of release gate runs per day from 2026-09-15 to 2026-10-16.</desc>
+<desc>Stacked column chart of release gate runs per day from 2026-09-15 to 2026-10-18.</desc>
 <rect x="0.5" y="0.5" width="759" height="319" rx="8" fill="#fcfcfb" stroke="#e1e0d9"/>
 <text x="20.0" y="30.0" fill="#0b0b0b" font-size="15" font-weight="600" text-anchor="start">Release gate runs per day</text>
 <text x="20.0" y="50.0" fill="#52514e" font-size="12" font-weight="400" text-anchor="start">By how far the run got. Days are UTC.</text>
@@ -20,36 +20,35 @@
 <rect x="546.0" y="21" width="10" height="10" rx="2" fill="#2a78d6"/>
 <text x="437.0" y="31.0" fill="#52514e" font-size="12" font-weight="400" text-anchor="start">Ready to ship</text>
 <rect x="421.0" y="21" width="10" height="10" rx="2" fill="#104281"/>
-<path d="M53.0 280.0 V259.6 Q53.0 259.6 53.0 259.6 H72.4 Q72.4 259.6 72.4 259.6 V280.0 Z" fill="#2a78d6"/>
-<path d="M53.0 257.6 V233.0 Q53.0 229.0 57.0 229.0 H68.4 Q72.4 229.0 72.4 233.0 V257.6 Z" fill="#86b6ef"/>
-<text x="62.7" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 15</text>
-<path d="M74.4 280.0 V259.6 Q74.4 259.6 74.4 259.6 H93.8 Q93.8 259.6 93.8 259.6 V280.0 Z" fill="#104281"/>
-<path d="M74.4 257.6 V182.0 Q74.4 178.0 78.4 178.0 H89.8 Q93.8 178.0 93.8 182.0 V257.6 Z" fill="#86b6ef"/>
-<path d="M95.8 280.0 V273.8 Q95.8 269.8 99.8 269.8 H111.1 Q115.1 269.8 115.1 273.8 V280.0 Z" fill="#104281"/>
-<path d="M117.1 280.0 V269.8 Q117.1 269.8 117.1 269.8 H136.5 Q136.5 269.8 136.5 269.8 V280.0 Z" fill="#104281"/>
-<path d="M117.1 267.8 V259.6 Q117.1 259.6 117.1 259.6 H136.5 Q136.5 259.6 136.5 259.6 V267.8 Z" fill="#2a78d6"/>
-<path d="M117.1 257.6 V141.2 Q117.1 137.2 121.1 137.2 H132.5 Q136.5 137.2 136.5 141.2 V257.6 Z" fill="#86b6ef"/>
-<path d="M138.5 280.0 V249.4 Q138.5 249.4 138.5 249.4 H157.9 Q157.9 249.4 157.9 249.4 V280.0 Z" fill="#104281"/>
-<path d="M138.5 247.4 V141.2 Q138.5 137.2 142.5 137.2 H153.9 Q157.9 137.2 157.9 141.2 V247.4 Z" fill="#86b6ef"/>
-<text x="148.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 19</text>
-<path d="M181.2 280.0 V202.4 Q181.2 198.4 185.2 198.4 H196.6 Q200.6 198.4 200.6 202.4 V280.0 Z" fill="#86b6ef"/>
-<path d="M202.6 280.0 V269.8 Q202.6 269.8 202.6 269.8 H222.0 Q222.0 269.8 222.0 269.8 V280.0 Z" fill="#2a78d6"/>
-<path d="M202.6 267.8 V192.2 Q202.6 188.2 206.6 188.2 H218.0 Q222.0 188.2 222.0 192.2 V267.8 Z" fill="#86b6ef"/>
-<text x="233.7" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 23</text>
-<text x="319.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 27</text>
-<path d="M373.6 280.0 V202.4 Q373.6 198.4 377.6 198.4 H389.0 Q393.0 198.4 393.0 202.4 V280.0 Z" fill="#86b6ef"/>
-<text x="404.7" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 1</text>
-<path d="M416.4 280.0 V269.8 Q416.4 269.8 416.4 269.8 H435.8 Q435.8 269.8 435.8 269.8 V280.0 Z" fill="#104281"/>
-<path d="M416.4 267.8 V259.6 Q416.4 259.6 416.4 259.6 H435.8 Q435.8 259.6 435.8 259.6 V267.8 Z" fill="#2a78d6"/>
-<path d="M416.4 257.6 V171.8 Q416.4 167.8 420.4 167.8 H431.8 Q435.8 167.8 435.8 171.8 V257.6 Z" fill="#86b6ef"/>
-<path d="M437.8 280.0 V269.8 Q437.8 269.8 437.8 269.8 H457.1 Q457.1 269.8 457.1 269.8 V280.0 Z" fill="#104281"/>
-<path d="M437.8 267.8 V263.6 Q437.8 259.6 441.8 259.6 H453.1 Q457.1 259.6 457.1 263.6 V267.8 Z" fill="#86b6ef"/>
-<path d="M459.1 280.0 V269.8 Q459.1 269.8 459.1 269.8 H478.5 Q478.5 269.8 478.5 269.8 V280.0 Z" fill="#104281"/>
-<path d="M459.1 267.8 V120.8 Q459.1 116.8 463.1 116.8 H474.5 Q478.5 116.8 478.5 120.8 V267.8 Z" fill="#86b6ef"/>
-<text x="468.8" y="110.8" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">16</text>
-<path d="M480.5 280.0 V259.6 Q480.5 259.6 480.5 259.6 H499.9 Q499.9 259.6 499.9 259.6 V280.0 Z" fill="#104281"/>
-<path d="M480.5 257.6 V202.4 Q480.5 198.4 484.5 198.4 H495.9 Q499.9 198.4 499.9 202.4 V257.6 Z" fill="#86b6ef"/>
-<text x="490.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 5</text>
-<text x="575.7" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 9</text>
-<text x="661.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 13</text>
+<path d="M53.0 280.0 V259.6 Q53.0 259.6 53.0 259.6 H71.1 Q71.1 259.6 71.1 259.6 V280.0 Z" fill="#2a78d6"/>
+<path d="M53.0 257.6 V233.0 Q53.0 229.0 57.0 229.0 H67.1 Q71.1 229.0 71.1 233.0 V257.6 Z" fill="#86b6ef"/>
+<text x="62.1" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 15</text>
+<path d="M73.1 280.0 V259.6 Q73.1 259.6 73.1 259.6 H91.2 Q91.2 259.6 91.2 259.6 V280.0 Z" fill="#104281"/>
+<path d="M73.1 257.6 V182.0 Q73.1 178.0 77.1 178.0 H87.2 Q91.2 178.0 91.2 182.0 V257.6 Z" fill="#86b6ef"/>
+<path d="M93.2 280.0 V273.8 Q93.2 269.8 97.2 269.8 H107.4 Q111.4 269.8 111.4 273.8 V280.0 Z" fill="#104281"/>
+<path d="M113.4 280.0 V269.8 Q113.4 269.8 113.4 269.8 H131.5 Q131.5 269.8 131.5 269.8 V280.0 Z" fill="#104281"/>
+<path d="M113.4 267.8 V259.6 Q113.4 259.6 113.4 259.6 H131.5 Q131.5 259.6 131.5 259.6 V267.8 Z" fill="#2a78d6"/>
+<path d="M113.4 257.6 V141.2 Q113.4 137.2 117.4 137.2 H127.5 Q131.5 137.2 131.5 141.2 V257.6 Z" fill="#86b6ef"/>
+<path d="M133.5 280.0 V249.4 Q133.5 249.4 133.5 249.4 H151.6 Q151.6 249.4 151.6 249.4 V280.0 Z" fill="#104281"/>
+<path d="M133.5 247.4 V141.2 Q133.5 137.2 137.5 137.2 H147.6 Q151.6 137.2 151.6 141.2 V247.4 Z" fill="#86b6ef"/>
+<text x="162.6" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 20</text>
+<path d="M173.7 280.0 V202.4 Q173.7 198.4 177.7 198.4 H187.8 Q191.8 198.4 191.8 202.4 V280.0 Z" fill="#86b6ef"/>
+<path d="M193.8 280.0 V269.8 Q193.8 269.8 193.8 269.8 H211.9 Q211.9 269.8 211.9 269.8 V280.0 Z" fill="#2a78d6"/>
+<path d="M193.8 267.8 V192.2 Q193.8 188.2 197.8 188.2 H207.9 Q211.9 188.2 211.9 192.2 V267.8 Z" fill="#86b6ef"/>
+<text x="263.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 25</text>
+<path d="M354.8 280.0 V202.4 Q354.8 198.4 358.8 198.4 H368.9 Q372.9 198.4 372.9 202.4 V280.0 Z" fill="#86b6ef"/>
+<text x="363.8" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep 30</text>
+<path d="M395.0 280.0 V269.8 Q395.0 269.8 395.0 269.8 H413.1 Q413.1 269.8 413.1 269.8 V280.0 Z" fill="#104281"/>
+<path d="M395.0 267.8 V259.6 Q395.0 259.6 395.0 259.6 H413.1 Q413.1 259.6 413.1 259.6 V267.8 Z" fill="#2a78d6"/>
+<path d="M395.0 257.6 V171.8 Q395.0 167.8 399.0 167.8 H409.1 Q413.1 167.8 413.1 171.8 V257.6 Z" fill="#86b6ef"/>
+<path d="M415.1 280.0 V269.8 Q415.1 269.8 415.1 269.8 H433.2 Q433.2 269.8 433.2 269.8 V280.0 Z" fill="#104281"/>
+<path d="M415.1 267.8 V263.6 Q415.1 259.6 419.1 259.6 H429.2 Q433.2 259.6 433.2 263.6 V267.8 Z" fill="#86b6ef"/>
+<path d="M435.2 280.0 V269.8 Q435.2 269.8 435.2 269.8 H453.4 Q453.4 269.8 453.4 269.8 V280.0 Z" fill="#104281"/>
+<path d="M435.2 267.8 V120.8 Q435.2 116.8 439.2 116.8 H449.4 Q453.4 116.8 453.4 120.8 V267.8 Z" fill="#86b6ef"/>
+<text x="444.3" y="110.8" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">16</text>
+<path d="M455.4 280.0 V259.6 Q455.4 259.6 455.4 259.6 H473.5 Q473.5 259.6 473.5 259.6 V280.0 Z" fill="#104281"/>
+<path d="M455.4 257.6 V202.4 Q455.4 198.4 459.4 198.4 H469.5 Q473.5 198.4 473.5 202.4 V257.6 Z" fill="#86b6ef"/>
+<text x="464.4" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 5</text>
+<text x="565.0" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 10</text>
+<text x="665.6" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct 15</text>
 </svg>
