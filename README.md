@@ -9,11 +9,11 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 3,028 on all branches. 2,245 are released. 783 are on branches that are not released yet.
-- **Agent share:** 1,920 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 431,388 lines in 2,057 files. 39% is tests and checks.
-- **Size:** 192 route handlers, 90 data models, 532 test files, 17 CI jobs, 11 lint rules.
-- **Sprints:** 128 sprint numbers allocated.
+- **Commits:** 3,029 on all branches. 2,248 are released. 784 are on branches that are not released yet.
+- **Agent share:** 1,921 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 431,149 lines in 2,054 files. 39% is tests and checks.
+- **Size:** 192 route handlers, 90 data models, 531 test files, 18 CI jobs, 11 lint rules.
+- **Sprints:** 129 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
 - **Worktrees:** 162 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-18, going by the newest commit on the released branch.
@@ -52,6 +52,7 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 129 | (title pending) | In progress | 2026-10-18 |
 | 128 | (title pending) | Allocated | 2026-10-05 |
 | 127 | (title pending) | Shipped | 2026-10-04 |
 | 126 | (title pending) | Shipped | 2026-10-04 |
@@ -63,13 +64,13 @@ All runs are in [gates.md](gates.md).
 | 120 | (title pending) | Shipped | 2026-10-04 |
 | 119 | (title pending) | Shipped | 2026-10-04 |
 | 118 | (title pending) | Shipped | 2026-10-04 |
-| 117 | (title pending) | Allocated | 2026-10-03 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
 ## Latest events
 
-- 2026-10-18. Newest commit on the released branch: `009d6999`.
+- 2026-10-18. Newest commit on the released branch: `cc90890e`.
+- 2026-10-18. Sprint 129: In progress.
 - 2026-10-05. Gate run on `dce76a99`: Ready to ship.
 - 2026-10-05. Gate run on `a28eb60f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-05. Gate run on `bfbea595`: Blocked at the website checks.
 - 2026-10-05. Gate run on `44434d18`: Other.
 - 2026-10-05. Sprint 128: Allocated.
-- 2026-10-04. Gate run on `b4138925`: Ready to ship.
 
 The full list is in [log.md](log.md).
 
