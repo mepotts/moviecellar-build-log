@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" width="760" height="320" role="img" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif">
 <title>Commits per week</title>
-<desc>Column chart of commits per week from 2026-04-06 to 2026-10-12.</desc>
+<desc>Column chart of commits per week from 2026-04-06 to 2026-10-19.</desc>
 <rect x="0.5" y="0.5" width="759" height="319" rx="8" fill="#fcfcfb" stroke="#e1e0d9"/>
 <text x="20.0" y="30.0" fill="#0b0b0b" font-size="15" font-weight="600" text-anchor="start">Commits per week</text>
 <text x="20.0" y="50.0" fill="#52514e" font-size="12" font-weight="400" text-anchor="start">All branches, by author date. The last column is the current week so far.</text>
@@ -12,39 +12,39 @@
 <text x="44.0" y="148.0" fill="#898781" font-size="11" font-weight="400" text-anchor="end">400</text>
 <line x1="52" y1="76.0" x2="736" y2="76.0" stroke="#e1e0d9" stroke-width="1"/>
 <text x="44.0" y="80.0" fill="#898781" font-size="11" font-weight="400" text-anchor="end">600</text>
-<path d="M53.0 280.0 V280.0 Q53.0 276.3 56.7 276.3 H71.7 Q75.4 276.3 75.4 280.0 V280.0 Z" fill="#2a78d6"/>
-<text x="64.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Apr</text>
-<path d="M77.4 280.0 V228.9 Q77.4 224.9 81.4 224.9 H95.9 Q99.9 224.9 99.9 228.9 V280.0 Z" fill="#2a78d6"/>
-<path d="M101.9 280.0 V210.2 Q101.9 206.2 105.9 206.2 H120.3 Q124.3 206.2 124.3 210.2 V280.0 Z" fill="#2a78d6"/>
-<path d="M126.3 280.0 V197.6 Q126.3 193.6 130.3 193.6 H144.7 Q148.7 193.6 148.7 197.6 V280.0 Z" fill="#2a78d6"/>
-<path d="M150.7 280.0 V277.2 Q150.7 273.2 154.7 273.2 H169.1 Q173.1 273.2 173.1 277.2 V280.0 Z" fill="#2a78d6"/>
-<text x="161.9" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">May</text>
-<path d="M175.1 280.0 V240.8 Q175.1 236.8 179.1 236.8 H193.6 Q197.6 236.8 197.6 240.8 V280.0 Z" fill="#2a78d6"/>
-<path d="M199.6 280.0 V280.0 Q199.6 279.7 199.9 279.7 H221.7 Q222.0 279.7 222.0 280.0 V280.0 Z" fill="#2a78d6"/>
-<path d="M224.0 280.0 V269.4 Q224.0 265.4 228.0 265.4 H242.4 Q246.4 265.4 246.4 269.4 V280.0 Z" fill="#2a78d6"/>
-<path d="M248.4 280.0 V274.8 Q248.4 270.8 252.4 270.8 H266.9 Q270.9 270.8 270.9 274.8 V280.0 Z" fill="#2a78d6"/>
-<text x="259.6" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Jun</text>
-<path d="M272.9 280.0 V271.1 Q272.9 267.1 276.9 267.1 H291.3 Q295.3 267.1 295.3 271.1 V280.0 Z" fill="#2a78d6"/>
-<path d="M297.3 280.0 V280.0 Q297.3 279.0 298.3 279.0 H318.7 Q319.7 279.0 319.7 280.0 V280.0 Z" fill="#2a78d6"/>
-<path d="M346.1 280.0 V276.5 Q346.1 272.5 350.1 272.5 H364.6 Q368.6 272.5 368.6 276.5 V280.0 Z" fill="#2a78d6"/>
-<path d="M370.6 280.0 V273.1 Q370.6 269.1 374.6 269.1 H389.0 Q393.0 269.1 393.0 273.1 V280.0 Z" fill="#2a78d6"/>
-<text x="381.8" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Jul</text>
-<path d="M395.0 280.0 V260.9 Q395.0 256.9 399.0 256.9 H413.4 Q417.4 256.9 417.4 260.9 V280.0 Z" fill="#2a78d6"/>
-<path d="M419.4 280.0 V267.7 Q419.4 263.7 423.4 263.7 H437.9 Q441.9 263.7 441.9 267.7 V280.0 Z" fill="#2a78d6"/>
-<path d="M443.9 280.0 V266.7 Q443.9 262.7 447.9 262.7 H462.3 Q466.3 262.7 466.3 266.7 V280.0 Z" fill="#2a78d6"/>
-<text x="479.5" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Aug</text>
-<path d="M492.7 280.0 V271.4 Q492.7 267.4 496.7 267.4 H511.1 Q515.1 267.4 515.1 271.4 V280.0 Z" fill="#2a78d6"/>
-<path d="M517.1 280.0 V258.2 Q517.1 254.2 521.1 254.2 H535.6 Q539.6 254.2 539.6 258.2 V280.0 Z" fill="#2a78d6"/>
-<path d="M541.6 280.0 V279.6 Q541.6 275.6 545.6 275.6 H560.0 Q564.0 275.6 564.0 279.6 V280.0 Z" fill="#2a78d6"/>
-<path d="M566.0 280.0 V249.3 Q566.0 245.3 570.0 245.3 H584.4 Q588.4 245.3 588.4 249.3 V280.0 Z" fill="#2a78d6"/>
-<path d="M590.4 280.0 V267.3 Q590.4 263.3 594.4 263.3 H608.9 Q612.9 263.3 612.9 267.3 V280.0 Z" fill="#2a78d6"/>
-<text x="601.6" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep</text>
-<path d="M614.9 280.0 V194.2 Q614.9 190.2 618.9 190.2 H633.3 Q637.3 190.2 637.3 194.2 V280.0 Z" fill="#2a78d6"/>
-<path d="M639.3 280.0 V177.9 Q639.3 173.9 643.3 173.9 H657.7 Q661.7 173.9 661.7 177.9 V280.0 Z" fill="#2a78d6"/>
-<path d="M663.7 280.0 V138.8 Q663.7 134.8 667.7 134.8 H682.1 Q686.1 134.8 686.1 138.8 V280.0 Z" fill="#2a78d6"/>
-<text x="674.9" y="128.8" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">427</text>
-<path d="M688.1 280.0 V194.2 Q688.1 190.2 692.1 190.2 H706.6 Q710.6 190.2 710.6 194.2 V280.0 Z" fill="#2a78d6"/>
-<text x="699.4" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct</text>
-<path d="M712.6 280.0 V158.2 Q712.6 154.2 716.6 154.2 H731.0 Q735.0 154.2 735.0 158.2 V280.0 Z" fill="#2a78d6"/>
-<text x="723.8" y="148.2" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">370</text>
+<path d="M53.0 280.0 V280.0 Q53.0 276.3 56.7 276.3 H70.8 Q74.6 276.3 74.6 280.0 V280.0 Z" fill="#2a78d6"/>
+<text x="63.8" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Apr</text>
+<path d="M76.6 280.0 V228.9 Q76.6 224.9 80.6 224.9 H94.2 Q98.2 224.9 98.2 228.9 V280.0 Z" fill="#2a78d6"/>
+<path d="M100.2 280.0 V210.2 Q100.2 206.2 104.2 206.2 H117.8 Q121.8 206.2 121.8 210.2 V280.0 Z" fill="#2a78d6"/>
+<path d="M123.8 280.0 V197.6 Q123.8 193.6 127.8 193.6 H141.3 Q145.3 193.6 145.3 197.6 V280.0 Z" fill="#2a78d6"/>
+<path d="M147.3 280.0 V277.2 Q147.3 273.2 151.3 273.2 H164.9 Q168.9 273.2 168.9 277.2 V280.0 Z" fill="#2a78d6"/>
+<text x="158.1" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">May</text>
+<path d="M170.9 280.0 V240.8 Q170.9 236.8 174.9 236.8 H188.5 Q192.5 236.8 192.5 240.8 V280.0 Z" fill="#2a78d6"/>
+<path d="M194.5 280.0 V280.0 Q194.5 279.7 194.9 279.7 H215.8 Q216.1 279.7 216.1 280.0 V280.0 Z" fill="#2a78d6"/>
+<path d="M218.1 280.0 V269.4 Q218.1 265.4 222.1 265.4 H235.7 Q239.7 265.4 239.7 269.4 V280.0 Z" fill="#2a78d6"/>
+<path d="M241.7 280.0 V274.8 Q241.7 270.8 245.7 270.8 H259.3 Q263.3 270.8 263.3 274.8 V280.0 Z" fill="#2a78d6"/>
+<text x="252.5" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Jun</text>
+<path d="M265.3 280.0 V271.1 Q265.3 267.1 269.3 267.1 H282.9 Q286.9 267.1 286.9 271.1 V280.0 Z" fill="#2a78d6"/>
+<path d="M288.9 280.0 V280.0 Q288.9 279.0 289.9 279.0 H309.4 Q310.4 279.0 310.4 280.0 V280.0 Z" fill="#2a78d6"/>
+<path d="M336.0 280.0 V276.5 Q336.0 272.5 340.0 272.5 H353.6 Q357.6 272.5 357.6 276.5 V280.0 Z" fill="#2a78d6"/>
+<path d="M359.6 280.0 V273.1 Q359.6 269.1 363.6 269.1 H377.2 Q381.2 269.1 381.2 273.1 V280.0 Z" fill="#2a78d6"/>
+<text x="370.4" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Jul</text>
+<path d="M383.2 280.0 V260.9 Q383.2 256.9 387.2 256.9 H400.8 Q404.8 256.9 404.8 260.9 V280.0 Z" fill="#2a78d6"/>
+<path d="M406.8 280.0 V267.7 Q406.8 263.7 410.8 263.7 H424.4 Q428.4 263.7 428.4 267.7 V280.0 Z" fill="#2a78d6"/>
+<path d="M430.4 280.0 V266.7 Q430.4 262.7 434.4 262.7 H448.0 Q452.0 262.7 452.0 266.7 V280.0 Z" fill="#2a78d6"/>
+<text x="464.8" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Aug</text>
+<path d="M477.6 280.0 V271.4 Q477.6 267.4 481.6 267.4 H495.1 Q499.1 267.4 499.1 271.4 V280.0 Z" fill="#2a78d6"/>
+<path d="M501.1 280.0 V258.2 Q501.1 254.2 505.1 254.2 H518.7 Q522.7 254.2 522.7 258.2 V280.0 Z" fill="#2a78d6"/>
+<path d="M524.7 280.0 V279.6 Q524.7 275.6 528.7 275.6 H542.3 Q546.3 275.6 546.3 279.6 V280.0 Z" fill="#2a78d6"/>
+<path d="M548.3 280.0 V249.3 Q548.3 245.3 552.3 245.3 H565.9 Q569.9 245.3 569.9 249.3 V280.0 Z" fill="#2a78d6"/>
+<path d="M571.9 280.0 V267.3 Q571.9 263.3 575.9 263.3 H589.5 Q593.5 263.3 593.5 267.3 V280.0 Z" fill="#2a78d6"/>
+<text x="582.7" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Sep</text>
+<path d="M595.5 280.0 V194.2 Q595.5 190.2 599.5 190.2 H613.1 Q617.1 190.2 617.1 194.2 V280.0 Z" fill="#2a78d6"/>
+<path d="M619.1 280.0 V177.9 Q619.1 173.9 623.1 173.9 H636.7 Q640.7 173.9 640.7 177.9 V280.0 Z" fill="#2a78d6"/>
+<path d="M642.7 280.0 V138.8 Q642.7 134.8 646.7 134.8 H660.2 Q664.2 134.8 664.2 138.8 V280.0 Z" fill="#2a78d6"/>
+<text x="653.4" y="128.8" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">427</text>
+<path d="M666.2 280.0 V194.2 Q666.2 190.2 670.2 190.2 H683.8 Q687.8 190.2 687.8 194.2 V280.0 Z" fill="#2a78d6"/>
+<text x="677.0" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct</text>
+<path d="M689.8 280.0 V154.8 Q689.8 150.8 693.8 150.8 H707.4 Q711.4 150.8 711.4 154.8 V280.0 Z" fill="#2a78d6"/>
+<text x="724.2" y="274.0" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">0</text>
 </svg>

@@ -5,18 +5,18 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-10-18
+**Last change:** 2026-10-19
 
 ## Now
 
-- **Commits:** 3,038 on all branches. 2,253 are released. 785 are on branches that are not released yet.
-- **Agent share:** 1,927 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 432,056 lines in 2,065 files. 39% is tests and checks.
-- **Size:** 192 route handlers, 90 data models, 535 test files, 18 CI jobs, 11 lint rules.
-- **Sprints:** 129 sprint numbers allocated.
+- **Commits:** 3,048 on all branches. 2,257 are released. 791 are on branches that are not released yet.
+- **Agent share:** 1,934 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 432,445 lines in 2,068 files. 39% is tests and checks.
+- **Size:** 192 route handlers, 90 data models, 537 test files, 18 CI jobs, 11 lint rules.
+- **Sprints:** 137 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 162 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-10-18, going by the newest commit on the released branch.
+- **Worktrees:** 174 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Last release:** 2026-10-19, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-18.
 
 ## Commits per week
@@ -52,35 +52,35 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 137 | (title pending) | In progress | 2026-10-19 |
+| 136 | (title pending) | In progress | 2026-10-19 |
+| 135 | (title pending) | In progress | 2026-10-19 |
+| 134 | (title pending) | In progress | 2026-10-19 |
+| 133 | (title pending) | In progress | 2026-10-19 |
+| 132 | (title pending) | In progress | 2026-10-19 |
+| 131 | (title pending) | In progress | 2026-10-19 |
+| 130 | (title pending) | In progress | 2026-10-19 |
 | 129 | (title pending) | Not recorded |  |
 | 128 | (title pending) | Allocated | 2026-10-05 |
 | 127 | (title pending) | Shipped | 2026-10-04 |
 | 126 | (title pending) | Shipped | 2026-10-04 |
-| 125 | (title pending) | Shipped | 2026-10-04 |
-| 124 | (title pending) | Shipped | 2026-10-04 |
-| 123 | (title pending) | Shipped | 2026-10-04 |
-| 122 | (title pending) | Shipped | 2026-10-04 |
-| 121 | (title pending) | Shipped | 2026-10-04 |
-| 120 | (title pending) | Shipped | 2026-10-04 |
-| 119 | (title pending) | Shipped | 2026-10-04 |
-| 118 | (title pending) | Shipped | 2026-10-04 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
 ## Latest events
 
-- 2026-10-18. Newest commit on the released branch: `7acee4bd`.
+- 2026-10-19. Newest commit on the released branch: `51d470b6`.
+- 2026-10-19. Sprint 137: In progress.
+- 2026-10-19. Sprint 136: In progress.
+- 2026-10-19. Sprint 135: In progress.
+- 2026-10-19. Sprint 134: In progress.
+- 2026-10-19. Sprint 133: In progress.
+- 2026-10-19. Sprint 132: In progress.
+- 2026-10-19. Sprint 131: In progress.
+- 2026-10-19. Sprint 130: In progress.
 - 2026-10-05. Gate run on `dce76a99`: Ready to ship.
 - 2026-10-05. Gate run on `a28eb60f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.
-- 2026-10-05. Gate run on `c979cd9d`: Ready to ship.
-- 2026-10-05. Gate run on `9d3c38b3`: Blocked at the website checks.
-- 2026-10-05. Gate run on `3f35db45`: Blocked at the website checks.
-- 2026-10-05. Gate run on `67cbaa7f`: Blocked at the website checks.
-- 2026-10-05. Gate run on `bfbea595`: Blocked at the website checks.
-- 2026-10-05. Gate run on `44434d18`: Other.
-- 2026-10-05. Sprint 128: Allocated.
-- 2026-10-04. Gate run on `b4138925`: Ready to ship.
 
 The full list is in [log.md](log.md).
 
