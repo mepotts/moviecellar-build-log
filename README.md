@@ -9,14 +9,14 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 3,048 on all branches. 2,257 are released. 791 are on branches that are not released yet.
-- **Agent share:** 1,934 commits (63%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 432,445 lines in 2,068 files. 39% is tests and checks.
-- **Size:** 192 route handlers, 90 data models, 537 test files, 18 CI jobs, 11 lint rules.
+- **Commits:** 3,077 on all branches. 2,258 are released. 819 are on branches that are not released yet.
+- **Agent share:** 1,963 commits (64%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 432,931 lines in 2,070 files. 39% is tests and checks.
+- **Size:** 192 route handlers, 90 data models, 538 test files, 18 CI jobs, 11 lint rules.
 - **Sprints:** 137 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 174 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-10-19, going by the newest commit on the released branch.
+- **Worktrees:** 176 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Last release:** 2026-10-18, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-18.
 
 ## Commits per week
@@ -69,7 +69,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-10-19. Newest commit on the released branch: `51d470b6`.
 - 2026-10-19. Sprint 137: In progress.
 - 2026-10-19. Sprint 136: In progress.
 - 2026-10-19. Sprint 135: In progress.
@@ -78,6 +77,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-19. Sprint 132: In progress.
 - 2026-10-19. Sprint 131: In progress.
 - 2026-10-19. Sprint 130: In progress.
+- 2026-10-18. Newest commit on the released branch: `2e876f0b`.
 - 2026-10-05. Gate run on `dce76a99`: Ready to ship.
 - 2026-10-05. Gate run on `a28eb60f`: Blocked at the website checks.
 - 2026-10-05. Gate run on `120f8b3d`: Blocked at the website checks.
