@@ -9,13 +9,13 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 3,248 on all branches. 2,367 are released. 881 are on branches that are not released yet.
+- **Commits:** 3,264 on all branches. 2,367 are released. 897 are on branches that are not released yet.
 - **Agent share:** 2,120 commits (65%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 457,622 lines in 2,196 files. 40% is tests and checks.
-- **Size:** 195 route handlers, 90 data models, 592 test files, 14 CI jobs, 11 lint rules.
-- **Sprints:** 152 sprint numbers allocated.
+- **Code:** 464,136 lines in 2,216 files. 41% is tests and checks.
+- **Size:** 196 route handlers, 90 data models, 604 test files, 14 CI jobs, 11 lint rules.
+- **Sprints:** 156 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 206 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 207 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-20, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-20.
 
@@ -52,6 +52,10 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 156 | (title pending) | Not recorded |  |
+| 155 | (title pending) | Not recorded |  |
+| 154 | (title pending) | Not recorded |  |
+| 153 | (title pending) | Not recorded |  |
 | 152 | (title pending) | In progress | 2026-10-20 |
 | 151 | (title pending) | Not recorded |  |
 | 150 | (title pending) | In progress | 2026-10-19 |
@@ -60,10 +64,6 @@ All runs are in [gates.md](gates.md).
 | 147 | (title pending) | In progress | 2026-10-19 |
 | 146 | (title pending) | In progress | 2026-10-19 |
 | 145 | (title pending) | In progress | 2026-10-19 |
-| 144 | (title pending) | In progress | 2026-10-19 |
-| 143 | (title pending) | In progress | 2026-10-19 |
-| 142 | (title pending) | In progress | 2026-10-19 |
-| 141 | (title pending) | In progress | 2026-10-19 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
