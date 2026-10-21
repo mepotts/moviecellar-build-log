@@ -9,13 +9,13 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 3,485 on all branches. 2,449 are released. 1,036 are on branches that are not released yet.
-- **Agent share:** 2,259 commits (65%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 483,484 lines in 2,302 files. 43% is tests and checks.
-- **Size:** 197 route handlers, 90 data models, 644 test files, 14 CI jobs, 11 lint rules.
+- **Commits:** 3,533 on all branches. 2,451 are released. 1,082 are on branches that are not released yet.
+- **Agent share:** 2,290 commits (65%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 487,215 lines in 2,319 files. 43% is tests and checks.
+- **Size:** 198 route handlers, 90 data models, 650 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 164 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 273 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 280 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-21, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-21.
 
@@ -69,7 +69,8 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-10-21. Newest commit on the released branch: `4f062abb`.
+- 2026-10-21. Newest commit on the released branch: `9e3f81f9`.
+- 2026-10-21. Desktop app version 0.3.16 tagged.
 - 2026-10-21. Sprint 164: Planned.
 - 2026-10-21. Sprint 163: Planned.
 - 2026-10-21. Sprint 162: Planned.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-21. Sprint 157: In progress.
 - 2026-10-20. Desktop app version 0.3.15 tagged.
 - 2026-10-20. Sprint 152: In progress.
-- 2026-10-19. Sprint 150: In progress.
 
 The full list is in [log.md](log.md).
 
