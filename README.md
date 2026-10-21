@@ -9,15 +9,15 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 3,383 on all branches. 2,442 are released. 941 are on branches that are not released yet.
-- **Agent share:** 2,198 commits (65%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 477,282 lines in 2,270 files. 42% is tests and checks.
-- **Size:** 197 route handlers, 90 data models, 632 test files, 14 CI jobs, 11 lint rules.
+- **Commits:** 3,426 on all branches. 2,445 are released. 981 are on branches that are not released yet.
+- **Agent share:** 2,222 commits (65%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 488,126 lines in 2,317 files. 42% is tests and checks.
+- **Size:** 197 route handlers, 90 data models, 655 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 164 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 237 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-10-20, going by the newest commit on the released branch.
-- **Latest commit:** 2026-10-20.
+- **Worktrees:** 242 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Last release:** 2026-10-21, going by the newest commit on the released branch.
+- **Latest commit:** 2026-10-21.
 
 ## Commits per week
 
@@ -69,6 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
+- 2026-10-21. Newest commit on the released branch: `6daeb645`.
 - 2026-10-21. Sprint 164: Planned.
 - 2026-10-21. Sprint 163: Planned.
 - 2026-10-21. Sprint 162: Planned.
@@ -77,7 +78,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-21. Sprint 159: Planned.
 - 2026-10-21. Sprint 158: Planned.
 - 2026-10-21. Sprint 157: In progress.
-- 2026-10-20. Newest commit on the released branch: `b3d83b0f`.
 - 2026-10-20. Desktop app version 0.3.15 tagged.
 - 2026-10-20. Sprint 152: In progress.
 - 2026-10-19. Sprint 150: In progress.
