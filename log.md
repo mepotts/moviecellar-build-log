@@ -3,7 +3,15 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
-- 2026-10-20. Newest commit on the released branch: `d96cbc0a`.
+- 2026-10-21. Sprint 164: Planned.
+- 2026-10-21. Sprint 163: Planned.
+- 2026-10-21. Sprint 162: Planned.
+- 2026-10-21. Sprint 161: Planned.
+- 2026-10-21. Sprint 160: Planned.
+- 2026-10-21. Sprint 159: Planned.
+- 2026-10-21. Sprint 158: Planned.
+- 2026-10-21. Sprint 157: In progress.
+- 2026-10-20. Newest commit on the released branch: `b3d83b0f`.
 - 2026-10-20. Desktop app version 0.3.15 tagged.
 - 2026-10-20. Sprint 152: In progress.
 - 2026-10-19. Sprint 150: In progress.
