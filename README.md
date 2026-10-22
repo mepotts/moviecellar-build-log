@@ -5,7 +5,7 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-10-21
+**Last change:** 2026-10-22
 
 ## Now
 
@@ -15,7 +15,7 @@ This page shows the work as it goes. A script reads the private repository every
 - **Size:** 197 route handlers, 90 data models, 663 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 164 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 282 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 280 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-21, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-21.
 
