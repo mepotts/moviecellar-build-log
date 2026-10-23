@@ -11,11 +11,11 @@ This page shows the work as it goes. A script reads the private repository every
 
 - **Commits:** 3,589 on all branches. 2,466 are released. 1,123 are on branches that are not released yet.
 - **Agent share:** 2,291 commits (64%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 495,056 lines in 2,347 files. 43% is tests and checks.
-- **Size:** 197 route handlers, 90 data models, 663 test files, 14 CI jobs, 11 lint rules.
-- **Sprints:** 164 sprint numbers allocated.
+- **Code:** 486,682 lines in 2,313 files. 43% is tests and checks.
+- **Size:** 197 route handlers, 90 data models, 646 test files, 14 CI jobs, 11 lint rules.
+- **Sprints:** 165 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 281 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 284 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-21, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-23.
 
@@ -52,6 +52,7 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 165 | (title pending) | In progress | 2026-10-21 |
 | 164 | (title pending) | Planned | 2026-10-21 |
 | 163 | (title pending) | Planned | 2026-10-21 |
 | 162 | (title pending) | Planned | 2026-10-21 |
@@ -63,7 +64,6 @@ All runs are in [gates.md](gates.md).
 | 156 | (title pending) | Not recorded |  |
 | 155 | (title pending) | Not recorded |  |
 | 154 | (title pending) | Not recorded |  |
-| 153 | (title pending) | Not recorded |  |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
@@ -71,6 +71,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 - 2026-10-21. Newest commit on the released branch: `21e02674`.
 - 2026-10-21. Desktop app version 0.3.16 tagged.
+- 2026-10-21. Sprint 165: In progress.
 - 2026-10-21. Sprint 164: Planned.
 - 2026-10-21. Sprint 163: Planned.
 - 2026-10-21. Sprint 162: Planned.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-21. Sprint 158: Planned.
 - 2026-10-21. Sprint 157: In progress.
 - 2026-10-20. Desktop app version 0.3.15 tagged.
-- 2026-10-20. Sprint 152: In progress.
 
 The full list is in [log.md](log.md).
 
