@@ -1,9 +1,9 @@
 {
  "last_change": "2026-10-24",
  "commits": {
-  "total": 3653,
+  "total": 3661,
   "released": 2466,
-  "unreleased": 1187,
+  "unreleased": 1195,
   "claude_coauthored": 2291,
   "first": "2026-04-12",
   "latest": "2026-10-24"
@@ -47,5 +47,5 @@
   "date": "2026-10-21",
   "candidate": "21e02674"
  },
- "latest_candidate": "16dfda78"
+ "latest_candidate": "f363191a"
 }
