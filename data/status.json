@@ -1,15 +1,15 @@
 {
  "last_change": "2026-10-28",
  "commits": {
-  "total": 4250,
-  "released": 2884,
-  "unreleased": 1366,
-  "claude_coauthored": 2606,
+  "total": 4342,
+  "released": 2887,
+  "unreleased": 1455,
+  "claude_coauthored": 2607,
   "first": "2026-04-12",
   "latest": "2026-10-28"
  },
  "code": {
-  "lines": 551566,
+  "lines": 551650,
   "files": 2600,
   "test_and_check_lines": 258381,
   "test_files": 762,
@@ -45,7 +45,7 @@
  },
  "last_release": {
   "date": "2026-10-28",
-  "candidate": "ca4ea34e"
+  "candidate": "1b63b4dd"
  },
- "latest_candidate": "6453b0f0"
+ "latest_candidate": "ed6e81bc"
 }
