@@ -48,6 +48,6 @@
 <text x="656.2" y="298.0" fill="#898781" font-size="11" font-weight="400" text-anchor="middle">Oct</text>
 <path d="M668.6 280.0 V175.4 Q668.6 171.4 672.6 171.4 H685.4 Q689.4 171.4 689.4 175.4 V280.0 Z" fill="#2a78d6"/>
 <path d="M691.4 280.0 V123.1 Q691.4 119.1 695.4 119.1 H708.2 Q712.2 119.1 712.2 123.1 V280.0 Z" fill="#2a78d6"/>
-<text x="701.8" y="113.1" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">631</text>
-<path d="M714.2 280.0 V127.2 Q714.2 123.2 718.2 123.2 H731.0 Q735.0 123.2 735.0 127.2 V280.0 Z" fill="#2a78d6"/>
+<path d="M714.2 280.0 V105.5 Q714.2 101.5 718.2 101.5 H731.0 Q735.0 101.5 735.0 105.5 V280.0 Z" fill="#2a78d6"/>
+<text x="724.6" y="95.5" fill="#52514e" font-size="11" font-weight="400" text-anchor="middle">700</text>
 </svg>
