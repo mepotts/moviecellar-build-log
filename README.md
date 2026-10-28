@@ -15,7 +15,7 @@ This page shows the work as it goes. A script reads the private repository every
 - **Size:** 210 route handlers, 91 data models, 762 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 165 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 331 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 332 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-10-28, going by the newest commit on the released branch.
 - **Latest commit:** 2026-10-28.
 
