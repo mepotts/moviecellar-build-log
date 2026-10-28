@@ -1,10 +1,10 @@
 {
  "last_change": "2026-10-28",
  "commits": {
-  "total": 4077,
+  "total": 4079,
   "released": 2848,
-  "unreleased": 1230,
-  "claude_coauthored": 2577,
+  "unreleased": 1231,
+  "claude_coauthored": 2578,
   "first": "2026-04-12",
   "latest": "2026-10-28"
  },
@@ -18,7 +18,7 @@
   "lint_rules": 11,
   "ci_jobs": 14
  },
- "worktrees": 329,
+ "worktrees": 330,
  "sprints": {
   "allocated": 165,
   "by_status": {
@@ -47,5 +47,5 @@
   "date": "2026-10-27",
   "candidate": "b08c17a4"
  },
- "latest_candidate": "132e885d"
+ "latest_candidate": "f347ad25"
 }
