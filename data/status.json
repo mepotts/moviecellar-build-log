@@ -1,5 +1,5 @@
 {
- "last_change": "2026-10-29",
+ "last_change": "2026-10-31",
  "commits": {
   "total": 4713,
   "released": 2966,
@@ -18,7 +18,7 @@
   "lint_rules": 11,
   "ci_jobs": 14
  },
- "worktrees": 359,
+ "worktrees": 342,
  "sprints": {
   "allocated": 165,
   "by_status": {
