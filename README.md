@@ -9,14 +9,14 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 4,737 on all branches. 2,973 are released. 1,764 are on branches that are not released yet.
-- **Agent share:** 2,622 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 562,804 lines in 2,642 files. 48% is tests and checks.
-- **Size:** 210 route handlers, 91 data models, 794 test files, 14 CI jobs, 11 lint rules.
-- **Sprints:** 165 sprint numbers allocated.
+- **Commits:** 4,751 on all branches. 2,986 are released. 1,766 are on branches that are not released yet.
+- **Agent share:** 2,633 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 565,519 lines in 2,654 files. 48% is tests and checks.
+- **Size:** 210 route handlers, 91 data models, 799 test files, 14 CI jobs, 11 lint rules.
+- **Sprints:** 171 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 352 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-11-01, going by the newest commit on the released branch.
+- **Worktrees:** 358 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Last release:** 2026-11-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-11-02.
 
 ## Commits per week
@@ -52,24 +52,27 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 171 | (title pending) | Not recorded |  |
+| 170 | (title pending) | Not recorded |  |
+| 169 | (title pending) | Merged | 2026-11-02 |
+| 168 | (title pending) | Merged | 2026-11-02 |
+| 167 | (title pending) | Not recorded |  |
+| 166 | (title pending) | Merged | 2026-11-02 |
 | 165 | (title pending) | In progress | 2026-10-21 |
 | 164 | (title pending) | Planned | 2026-10-21 |
 | 163 | (title pending) | Planned | 2026-10-21 |
 | 162 | (title pending) | Planned | 2026-10-21 |
 | 161 | (title pending) | Planned | 2026-10-21 |
 | 160 | (title pending) | Planned | 2026-10-21 |
-| 159 | (title pending) | Planned | 2026-10-21 |
-| 158 | (title pending) | Planned | 2026-10-21 |
-| 157 | (title pending) | In progress | 2026-10-21 |
-| 156 | (title pending) | Not recorded |  |
-| 155 | (title pending) | Not recorded |  |
-| 154 | (title pending) | Not recorded |  |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
 ## Latest events
 
-- 2026-11-01. Newest commit on the released branch: `dea91a5d`.
+- 2026-11-02. Newest commit on the released branch: `685f82d4`.
+- 2026-11-02. Sprint 169: Merged.
+- 2026-11-02. Sprint 168: Merged.
+- 2026-11-02. Sprint 166: Merged.
 - 2026-10-27. Desktop app version 0.3.17 tagged.
 - 2026-10-21. Desktop app version 0.3.16 tagged.
 - 2026-10-21. Sprint 165: In progress.
@@ -78,9 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-10-21. Sprint 162: Planned.
 - 2026-10-21. Sprint 161: Planned.
 - 2026-10-21. Sprint 160: Planned.
-- 2026-10-21. Sprint 159: Planned.
-- 2026-10-21. Sprint 158: Planned.
-- 2026-10-21. Sprint 157: In progress.
 
 The full list is in [log.md](log.md).
 
