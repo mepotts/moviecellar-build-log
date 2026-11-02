@@ -4,8 +4,14 @@
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
 - 2026-11-02. Newest commit on the released branch: `685f82d4`.
+- 2026-11-02. Sprint 176: Merged.
+- 2026-11-02. Sprint 174: Merged.
+- 2026-11-02. Sprint 172: Merged.
+- 2026-11-02. Sprint 171: Merged.
+- 2026-11-02. Sprint 170: Merged.
 - 2026-11-02. Sprint 169: Merged.
 - 2026-11-02. Sprint 168: Merged.
+- 2026-11-02. Sprint 167: Merged.
 - 2026-11-02. Sprint 166: Merged.
 - 2026-10-27. Desktop app version 0.3.17 tagged.
 - 2026-10-21. Desktop app version 0.3.16 tagged.
