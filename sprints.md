@@ -7,7 +7,7 @@
 |---|---|---|---|
 | 177 | (title pending) | Merged | 2026-11-02 |
 | 176 | (title pending) | Merged | 2026-11-02 |
-| 175 | (title pending) | Not recorded |  |
+| 175 | (title pending) | Merged | 2026-11-02 |
 | 174 | (title pending) | Merged | 2026-11-02 |
 | 173 | (title pending) | Not recorded |  |
 | 172 | (title pending) | Merged | 2026-11-02 |

@@ -5,13 +5,13 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-11-02
+**Last change:** 2026-11-03
 
 ## Now
 
-- **Commits:** 4,840 on all branches. 3,010 are released. 1,830 are on branches that are not released yet.
-- **Agent share:** 2,662 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 571,865 lines in 2,682 files. 49% is tests and checks.
+- **Commits:** 4,842 on all branches. 3,017 are released. 1,825 are on branches that are not released yet.
+- **Agent share:** 2,663 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 572,007 lines in 2,682 files. 49% is tests and checks.
 - **Size:** 210 route handlers, 91 data models, 819 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 177 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
@@ -54,7 +54,7 @@ All runs are in [gates.md](gates.md).
 |---|---|---|---|
 | 177 | (title pending) | Merged | 2026-11-02 |
 | 176 | (title pending) | Merged | 2026-11-02 |
-| 175 | (title pending) | Not recorded |  |
+| 175 | (title pending) | Merged | 2026-11-02 |
 | 174 | (title pending) | Merged | 2026-11-02 |
 | 173 | (title pending) | Not recorded |  |
 | 172 | (title pending) | Merged | 2026-11-02 |
@@ -69,9 +69,10 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-11-02. Newest commit on the released branch: `dbcab47e`.
+- 2026-11-02. Newest commit on the released branch: `bb0b1086`.
 - 2026-11-02. Sprint 177: Merged.
 - 2026-11-02. Sprint 176: Merged.
+- 2026-11-02. Sprint 175: Merged.
 - 2026-11-02. Sprint 174: Merged.
 - 2026-11-02. Sprint 172: Merged.
 - 2026-11-02. Sprint 171: Merged.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-11-02. Sprint 168: Merged.
 - 2026-11-02. Sprint 167: Merged.
 - 2026-11-02. Sprint 166: Merged.
-- 2026-10-27. Desktop app version 0.3.17 tagged.
 
 The full list is in [log.md](log.md).
 
