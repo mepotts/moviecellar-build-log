@@ -9,10 +9,10 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 4,891 on all branches. 3,089 are released. 1,803 are on branches that are not released yet.
-- **Agent share:** 2,692 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 578,412 lines in 2,700 files. 49% is tests and checks.
-- **Size:** 210 route handlers, 91 data models, 830 test files, 14 CI jobs, 11 lint rules.
+- **Commits:** 4,894 on all branches. 3,089 are released. 1,805 are on branches that are not released yet.
+- **Agent share:** 2,694 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 579,877 lines in 2,706 files. 49% is tests and checks.
+- **Size:** 210 route handlers, 91 data models, 832 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 186 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
 - **Worktrees:** 375 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
@@ -53,6 +53,7 @@ All runs are in [gates.md](gates.md).
 | Sprint | Title | Status | Date |
 |---|---|---|---|
 | 186 | (title pending) | Not recorded |  |
+| 185 | (title pending) | Not recorded |  |
 | 184 | (title pending) | Not recorded |  |
 | 183 | (title pending) | Not recorded |  |
 | 182 | (title pending) | Not recorded |  |
@@ -63,7 +64,6 @@ All runs are in [gates.md](gates.md).
 | 177 | (title pending) | Merged | 2026-11-02 |
 | 176 | (title pending) | Merged | 2026-11-02 |
 | 175 | (title pending) | Merged | 2026-11-02 |
-| 174 | (title pending) | Merged | 2026-11-02 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
