@@ -9,13 +9,13 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 4,842 on all branches. 3,017 are released. 1,825 are on branches that are not released yet.
-- **Agent share:** 2,663 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 572,007 lines in 2,682 files. 49% is tests and checks.
+- **Commits:** 4,845 on all branches. 3,046 are released. 1,800 are on branches that are not released yet.
+- **Agent share:** 2,664 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 572,109 lines in 2,682 files. 49% is tests and checks.
 - **Size:** 210 route handlers, 91 data models, 819 test files, 14 CI jobs, 11 lint rules.
-- **Sprints:** 177 sprint numbers allocated.
+- **Sprints:** 178 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 363 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 364 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-11-02, going by the newest commit on the released branch.
 - **Latest commit:** 2026-11-02.
 
@@ -52,6 +52,7 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 178 | (title pending) | Merged | 2026-11-02 |
 | 177 | (title pending) | Merged | 2026-11-02 |
 | 176 | (title pending) | Merged | 2026-11-02 |
 | 175 | (title pending) | Merged | 2026-11-02 |
@@ -63,13 +64,13 @@ All runs are in [gates.md](gates.md).
 | 169 | (title pending) | Merged | 2026-11-02 |
 | 168 | (title pending) | Merged | 2026-11-02 |
 | 167 | (title pending) | Merged | 2026-11-02 |
-| 166 | (title pending) | Merged | 2026-11-02 |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
 ## Latest events
 
-- 2026-11-02. Newest commit on the released branch: `bb0b1086`.
+- 2026-11-02. Newest commit on the released branch: `c1654f0a`.
+- 2026-11-02. Sprint 178: Merged.
 - 2026-11-02. Sprint 177: Merged.
 - 2026-11-02. Sprint 176: Merged.
 - 2026-11-02. Sprint 175: Merged.
@@ -80,7 +81,6 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 - 2026-11-02. Sprint 169: Merged.
 - 2026-11-02. Sprint 168: Merged.
 - 2026-11-02. Sprint 167: Merged.
-- 2026-11-02. Sprint 166: Merged.
 
 The full list is in [log.md](log.md).
 
