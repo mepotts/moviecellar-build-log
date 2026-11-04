@@ -5,14 +5,14 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-11-03
+**Last change:** 2026-11-04
 
 ## Now
 
-- **Commits:** 4,933 on all branches. 3,093 are released. 1,840 are on branches that are not released yet.
-- **Agent share:** 2,698 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 580,795 lines in 2,715 files. 49% is tests and checks.
-- **Size:** 210 route handlers, 94 data models, 833 test files, 14 CI jobs, 11 lint rules.
+- **Commits:** 4,935 on all branches. 3,095 are released. 1,841 are on branches that are not released yet.
+- **Agent share:** 2,700 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 580,997 lines in 2,716 files. 49% is tests and checks.
+- **Size:** 210 route handlers, 94 data models, 834 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 193 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
 - **Worktrees:** 385 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
@@ -69,7 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-11-03. Newest commit on the released branch: `536d68a2`.
+- 2026-11-03. Newest commit on the released branch: `128cec09`.
 - 2026-11-02. Sprint 178: Merged.
 - 2026-11-02. Sprint 177: Merged.
 - 2026-11-02. Sprint 176: Merged.
