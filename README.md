@@ -9,15 +9,15 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 4,958 on all branches. 3,119 are released. 1,840 are on branches that are not released yet.
-- **Agent share:** 2,714 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 587,989 lines in 2,750 files. 49% is tests and checks.
-- **Size:** 212 route handlers, 94 data models, 850 test files, 14 CI jobs, 11 lint rules.
-- **Sprints:** 193 sprint numbers allocated.
+- **Commits:** 4,962 on all branches. 3,119 are released. 1,843 are on branches that are not released yet.
+- **Agent share:** 2,715 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 589,181 lines in 2,754 files. 49% is tests and checks.
+- **Size:** 212 route handlers, 94 data models, 853 test files, 14 CI jobs, 11 lint rules.
+- **Sprints:** 194 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 387 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 388 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-11-03, going by the newest commit on the released branch.
-- **Latest commit:** 2026-11-03.
+- **Latest commit:** 2026-11-04.
 
 ## Commits per week
 
@@ -52,6 +52,7 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
+| 194 | (title pending) | Not recorded |  |
 | 193 | (title pending) | Not recorded |  |
 | 192 | (title pending) | Not recorded |  |
 | 191 | (title pending) | Not recorded |  |
@@ -63,7 +64,6 @@ All runs are in [gates.md](gates.md).
 | 185 | (title pending) | Not recorded |  |
 | 184 | (title pending) | Not recorded |  |
 | 183 | (title pending) | Not recorded |  |
-| 182 | (title pending) | Not recorded |  |
 
 The status is the one recorded in the project's sprint registry, so it can lag the work. All sprints are in [sprints.md](sprints.md).
 
