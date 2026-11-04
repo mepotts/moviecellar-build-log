@@ -1,9 +1,9 @@
 {
  "last_change": "2026-11-04",
  "commits": {
-  "total": 4963,
-  "released": 3119,
-  "unreleased": 1844,
+  "total": 5014,
+  "released": 3122,
+  "unreleased": 1892,
   "claude_coauthored": 2716,
   "first": "2026-04-12",
   "latest": "2026-11-04"
@@ -18,9 +18,9 @@
   "lint_rules": 11,
   "ci_jobs": 14
  },
- "worktrees": 389,
+ "worktrees": 393,
  "sprints": {
-  "allocated": 194,
+  "allocated": 196,
   "by_status": {
    "Allocated": 6,
    "Closed": 1,
@@ -30,7 +30,7 @@
    "In progress": 25,
    "Merged": 14,
    "Not recorded": 25,
-   "Planned": 9,
+   "Planned": 11,
    "Shipped": 28
   }
  },
@@ -44,8 +44,8 @@
   "first_run": "2026-09-15"
  },
  "last_release": {
-  "date": "2026-11-03",
-  "candidate": "c8e4896d"
+  "date": "2026-11-04",
+  "candidate": "3a3fda02"
  },
- "latest_candidate": "5b68268c"
+ "latest_candidate": "b9167bfa"
 }
