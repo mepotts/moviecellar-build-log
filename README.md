@@ -9,13 +9,13 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 4,943 on all branches. 3,095 are released. 1,849 are on branches that are not released yet.
-- **Agent share:** 2,700 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 580,997 lines in 2,716 files. 49% is tests and checks.
-- **Size:** 210 route handlers, 94 data models, 834 test files, 14 CI jobs, 11 lint rules.
+- **Commits:** 4,953 on all branches. 3,095 are released. 1,858 are on branches that are not released yet.
+- **Agent share:** 2,709 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 587,378 lines in 2,749 files. 49% is tests and checks.
+- **Size:** 212 route handlers, 94 data models, 849 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 193 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 385 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 386 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-11-03, going by the newest commit on the released branch.
 - **Latest commit:** 2026-11-03.
 
@@ -54,7 +54,7 @@ All runs are in [gates.md](gates.md).
 |---|---|---|---|
 | 193 | (title pending) | Planned |  |
 | 192 | (title pending) | Planned |  |
-| 191 | (title pending) | Planned |  |
+| 191 | (title pending) | Not recorded |  |
 | 190 | (title pending) | Planned |  |
 | 189 | (title pending) | Planned |  |
 | 188 | (title pending) | Planned |  |
