@@ -9,9 +9,9 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 4,954 on all branches. 3,095 are released. 1,859 are on branches that are not released yet.
-- **Agent share:** 2,710 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 587,793 lines in 2,750 files. 49% is tests and checks.
+- **Commits:** 4,958 on all branches. 3,095 are released. 1,863 are on branches that are not released yet.
+- **Agent share:** 2,714 commits (55%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 587,989 lines in 2,750 files. 49% is tests and checks.
 - **Size:** 212 route handlers, 94 data models, 850 test files, 14 CI jobs, 11 lint rules.
 - **Sprints:** 193 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
@@ -52,13 +52,13 @@ All runs are in [gates.md](gates.md).
 
 | Sprint | Title | Status | Date |
 |---|---|---|---|
-| 193 | (title pending) | Planned |  |
-| 192 | (title pending) | Planned |  |
+| 193 | (title pending) | Not recorded |  |
+| 192 | (title pending) | Not recorded |  |
 | 191 | (title pending) | Not recorded |  |
-| 190 | (title pending) | Planned |  |
-| 189 | (title pending) | Planned |  |
-| 188 | (title pending) | Planned |  |
-| 187 | (title pending) | Planned |  |
+| 190 | (title pending) | Not recorded |  |
+| 189 | (title pending) | Not recorded |  |
+| 188 | (title pending) | Not recorded |  |
+| 187 | (title pending) | Not recorded |  |
 | 186 | (title pending) | Not recorded |  |
 | 185 | (title pending) | Not recorded |  |
 | 184 | (title pending) | Not recorded |  |
