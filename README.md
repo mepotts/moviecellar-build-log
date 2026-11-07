@@ -9,14 +9,14 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 5,888 on all branches. 3,122 are released. 2,766 are on branches that are not released yet.
+- **Commits:** 5,919 on all branches. 3,239 are released. 2,680 are on branches that are not released yet.
 - **Agent share:** 2,716 commits (46%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 609,527 lines in 2,835 files. 50% is tests and checks.
-- **Size:** 212 route handlers, 94 data models, 897 test files, 14 CI jobs, 12 lint rules.
+- **Code:** 609,902 lines in 2,837 files. 50% is tests and checks.
+- **Size:** 212 route handlers, 94 data models, 898 test files, 14 CI jobs, 12 lint rules.
 - **Sprints:** 197 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 464 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
-- **Last release:** 2026-11-04, going by the newest commit on the released branch.
+- **Worktrees:** 472 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Last release:** 2026-11-07, going by the newest commit on the released branch.
 - **Latest commit:** 2026-11-07.
 
 ## Commits per week
@@ -69,7 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-11-04. Newest commit on the released branch: `3a3fda02`.
+- 2026-11-07. Newest commit on the released branch: `3398c894`.
 - 2026-11-04. Sprint 197: Planned.
 - 2026-11-04. Sprint 196: Planned.
 - 2026-11-04. Sprint 195: Planned.
