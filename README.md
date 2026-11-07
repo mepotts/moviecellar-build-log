@@ -5,17 +5,17 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-11-06
+**Last change:** 2026-11-07
 
 ## Now
 
-- **Commits:** 5,710 on all branches. 3,122 are released. 2,588 are on branches that are not released yet.
-- **Agent share:** 2,716 commits (48%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 607,399 lines in 2,833 files. 50% is tests and checks.
+- **Commits:** 5,718 on all branches. 3,122 are released. 2,596 are on branches that are not released yet.
+- **Agent share:** 2,716 commits (47%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 607,469 lines in 2,833 files. 50% is tests and checks.
 - **Size:** 212 route handlers, 94 data models, 895 test files, 14 CI jobs, 12 lint rules.
 - **Sprints:** 197 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 443 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 444 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-11-04, going by the newest commit on the released branch.
 - **Latest commit:** 2026-11-06.
 
