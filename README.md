@@ -9,9 +9,9 @@ This page shows the work as it goes. A script reads the private repository every
 
 ## Now
 
-- **Commits:** 6,310 on all branches. 3,264 are released. 3,046 are on branches that are not released yet.
-- **Agent share:** 2,748 commits (44%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 624,656 lines in 2,912 files. 52% is tests and checks.
+- **Commits:** 6,315 on all branches. 3,264 are released. 3,051 are on branches that are not released yet.
+- **Agent share:** 2,750 commits (44%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 624,749 lines in 2,912 files. 52% is tests and checks.
 - **Size:** 212 route handlers, 94 data models, 927 test files, 14 CI jobs, 12 lint rules.
 - **Sprints:** 197 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
