@@ -1,17 +1,17 @@
 {
  "last_change": "2026-11-08",
  "commits": {
-  "total": 6219,
+  "total": 6228,
   "released": 3264,
-  "unreleased": 2955,
-  "claude_coauthored": 2737,
+  "unreleased": 2964,
+  "claude_coauthored": 2739,
   "first": "2026-04-12",
   "latest": "2026-11-08"
  },
  "code": {
-  "lines": 622480,
+  "lines": 622804,
   "files": 2907,
-  "test_and_check_lines": 319657,
+  "test_and_check_lines": 319981,
   "test_files": 923,
   "route_handlers": 212,
   "data_models": 94,
@@ -47,5 +47,5 @@
   "date": "2026-11-07",
   "candidate": "de0cef0d"
  },
- "latest_candidate": "0878a2ea"
+ "latest_candidate": "bf04d785"
 }
