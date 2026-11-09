@@ -5,11 +5,11 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-11-08
+**Last change:** 2026-11-09
 
 ## Now
 
-- **Commits:** 6,353 on all branches. 3,264 are released. 3,089 are on branches that are not released yet.
+- **Commits:** 6,360 on all branches. 3,264 are released. 3,096 are on branches that are not released yet.
 - **Agent share:** 2,753 commits (43%) carry a Claude co-author line. Codex commits and merges carry no such line.
 - **Code:** 624,969 lines in 2,912 files. 52% is tests and checks.
 - **Size:** 212 route handlers, 94 data models, 927 test files, 14 CI jobs, 12 lint rules.
