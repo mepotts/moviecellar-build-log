@@ -1,10 +1,10 @@
 {
  "last_change": "2026-11-10",
  "commits": {
-  "total": 6546,
+  "total": 6552,
   "released": 3264,
-  "unreleased": 3282,
-  "claude_coauthored": 2796,
+  "unreleased": 3288,
+  "claude_coauthored": 2798,
   "first": "2026-04-12",
   "latest": "2026-11-10"
  },
