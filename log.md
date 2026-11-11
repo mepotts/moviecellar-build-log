@@ -3,7 +3,7 @@
 
 Gate runs, sprint status dates, releases and desktop version tags, newest first.
 
-- 2026-11-07. Newest commit on the released branch: `de0cef0d`.
+- 2026-11-10. Newest commit on the released branch: `7fddd336`.
 - 2026-11-04. Sprint 197: Planned.
 - 2026-11-04. Sprint 196: Planned.
 - 2026-11-04. Sprint 195: Planned.
