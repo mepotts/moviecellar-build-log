@@ -5,17 +5,17 @@ MovieCellar is a movie collection app for the web and iOS, with a desktop sync a
 
 This page shows the work as it goes. A script reads the private repository every hour and rewrites this page from counts, dates and a few fixed labels.
 
-**Last change:** 2026-11-14
+**Last change:** 2026-11-15
 
 ## Now
 
-- **Commits:** 6,936 on all branches. 3,329 are released. 3,607 are on branches that are not released yet.
-- **Agent share:** 2,868 commits (41%) carry a Claude co-author line. Codex commits and merges carry no such line.
-- **Code:** 639,013 lines in 2,943 files. 52% is tests and checks.
-- **Size:** 214 route handlers, 94 data models, 942 test files, 14 CI jobs, 13 lint rules.
+- **Commits:** 6,988 on all branches. 3,345 are released. 3,643 are on branches that are not released yet.
+- **Agent share:** 2,875 commits (41%) carry a Claude co-author line. Codex commits and merges carry no such line.
+- **Code:** 642,637 lines in 2,958 files. 52% is tests and checks.
+- **Size:** 214 route handlers, 94 data models, 943 test files, 14 CI jobs, 13 lint rules.
 - **Sprints:** 197 sprint numbers allocated.
 - **Release gate:** 109 runs since 2026-09-15. 12 ended ready to ship and 89 ended blocked.
-- **Worktrees:** 580 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
+- **Worktrees:** 591 checkouts of the repository, stale ones included. Agents work side by side in separate checkouts.
 - **Last release:** 2026-11-14, going by the newest commit on the released branch.
 - **Latest commit:** 2026-11-14.
 
@@ -69,7 +69,7 @@ The status is the one recorded in the project's sprint registry, so it can lag t
 
 ## Latest events
 
-- 2026-11-14. Newest commit on the released branch: `de902978`.
+- 2026-11-14. Newest commit on the released branch: `16a0ce5b`.
 - 2026-11-04. Sprint 197: Planned.
 - 2026-11-04. Sprint 196: Planned.
 - 2026-11-04. Sprint 195: Planned.
